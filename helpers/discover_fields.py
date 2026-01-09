@@ -15,7 +15,6 @@ Examples:
 import argparse
 import os
 import sys
-from pathlib import Path
 
 import requests
 from dotenv import load_dotenv

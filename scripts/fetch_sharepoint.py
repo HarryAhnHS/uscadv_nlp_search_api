@@ -259,7 +259,7 @@ def fetch_library_files(access_token: str, library_name: str) -> list[dict]:
         return files
     elif response.status_code == 404:
         print(f"  → Library not found: {library_name} (skipping)")
-        print(f"     Try running: python scripts/discover_fields.py --all")
+        print("     Try running: python scripts/discover_fields.py --all")
         return []
     else:
         print(f"  → Error: {response.status_code}")
@@ -556,13 +556,13 @@ def main():
     print("=" * 60)
     for content_type, count in stats.items():
         print(f"  {content_type}: {count}")
-    print(f"  ─────────────────")
+    print("  ─────────────────")
     print(f"  Total: {len(all_documents)}")
     print()
     print("Next steps:")
     print(f"  1. Review {args.output}")
-    print(f"  2. Run: python scripts/build_index.py --force")
-    print(f"  3. Restart the API server")
+    print("  2. Run: python scripts/build_index.py --force")
+    print("  3. Restart the API server")
 
 
 if __name__ == "__main__":

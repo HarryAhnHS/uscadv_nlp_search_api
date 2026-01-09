@@ -2,8 +2,6 @@
 
 from typing import Any
 
-import numpy as np
-
 from app.index_store import get_index_store
 
 

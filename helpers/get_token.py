@@ -50,7 +50,7 @@ def get_refresh_token():
         
         if response.status_code == 200:
             tokens = response.json()
-            print(f"\nSuccess! Here's your new refresh token:")
+            print("\nSuccess! Here's your new refresh token:")
             print(f"\nREFRESH_TOKEN={tokens['refresh_token']}")
             print(f"\nAccess token expires in: {tokens['expires_in']} seconds")
             print("Update REFRESH_TOKEN in .env file")

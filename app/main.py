@@ -1,9 +1,11 @@
 """FastAPI application for NLP search API."""
 
+import logging
+import time
 from contextlib import asynccontextmanager
 from typing import Annotated
 
-from fastapi import FastAPI, Query
+from fastapi import FastAPI, Query, Request
 
 from app.hybrid import hybrid_search
 from app.index_store import get_index_store
@@ -14,15 +16,25 @@ from app.models import (
     SearchResult,
 )
 
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)-7s | %(name)s | %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
+logger = logging.getLogger("nlp_search")
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Load indexes on startup."""
+    logger.info("Starting NLP Search API...")
     store = get_index_store()
     store.load()
-    print(f"✓ Loaded {store.document_count} documents")
+    logger.info(f"Index loaded: {store.document_count} documents")
     yield
     # Cleanup on shutdown
+    logger.info("Shutting down NLP Search API...")
     store.clear_cache()
 
 
@@ -96,6 +108,11 @@ async def search(
     Returns:
         Search results with relevance scores and match explanations.
     """
+    start_time = time.perf_counter()
+    
+    # Log the search request
+    logger.info(f"Search request: q='{q}', type={type}, category={category}, top_k={top_k}")
+    
     # Perform hybrid search
     search_result = hybrid_search(
         query=q,
@@ -143,6 +160,12 @@ async def search(
         
         results.append(result)
     
+    elapsed_ms = (time.perf_counter() - start_time) * 1000
+    logger.info(
+        f"Search complete: {len(results)} results, mode={search_result['search_mode']}, "
+        f"time={elapsed_ms:.1f}ms"
+    )
+    
     return SearchResponse(
         query=q,
         total=len(results),
@@ -153,9 +176,11 @@ async def search(
 
 # Error handlers
 @app.exception_handler(Exception)
-async def generic_exception_handler(request, exc):
+async def generic_exception_handler(request: Request, exc: Exception):
     """Handle unexpected errors."""
     from fastapi.responses import JSONResponse
+    
+    logger.error(f"Unhandled exception: {type(exc).__name__}: {exc}", exc_info=True)
     
     return JSONResponse(
         status_code=500,
