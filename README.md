@@ -1,6 +1,6 @@
 # USC Advancement NLP Search API
 
-A hybrid search API for the Advancement BI Hub. Combines semantic search (FAISS) with keyword search (SQLite FTS5) to find reports, training videos, and glossary terms.
+A hybrid search API for the Advancement BI Hub. Combines semantic search (FAISS) with keyword search (SQLite FTS5) to find reports, training videos, glossary terms, and FAQs.
 
 ## Setup
 
@@ -12,7 +12,13 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-2. Build the search indexes from the mock data:
+2. Fetch data from SharePoint (requires credentials in `.env`):
+
+```bash
+python scripts/fetch_sharepoint.py
+```
+
+3. Build the search indexes:
 
 ```bash
 python scripts/build_index.py
@@ -139,73 +145,142 @@ app/
   semantic.py       - FAISS vector search
   keyword.py        - SQLite FTS5 search
   index_store.py    - Index loading and caching
-  auth.py           - Auth placeholder
 scripts/
-  fetch_sharepoint.py - Fetch reports from SharePoint
+  fetch_sharepoint.py - Fetch all content from SharePoint
   build_index.py      - Build FAISS + FTS indexes
+  discover_fields.py  - Helper to find SharePoint field names
+  get_token.py        - Helper to refresh OAuth tokens
 data/
-  mock_docs.json    - Sample documents (for testing)
-  docs.json         - Real documents (from SharePoint)
+  docs.json         - Documents from SharePoint
 ```
 
-## Test Cases for Demo
+## Test Cases
 
-Sample queries to demonstrate hybrid search capabilities.
+Sample natural language queries to demonstrate hybrid search capabilities.
 
-### Natural Language Questions
+### Semantic Search (Natural Language)
+
+These queries test meaning-based matching where exact keywords may not appear in results:
+
 ```
 how do I track my fundraising progress
-which donors haven't given this year
-where can I see my portfolio performance
-learn how to use the reporting tools
-what does it mean when a gift is promised but not received
-how do I enter a contact report
+which donors stopped giving this year
+where can I see my portfolio assignments
+how to prioritize which prospects to visit
+keeping donors engaged after they give
+how do I find wealthy prospects
+what reports show campaign performance
 ```
 
-### Acronyms
+### Keyword/Acronym Search
+
+Short queries and acronyms rely more on exact keyword matching:
+
 ```
 LYBUNT
 SYBUNT
 WPU
 Keck
+CFR
 ```
 
-### Concept Searches (no exact keyword match)
+### Concept Discovery
+
+Searches for concepts that should match related content across types:
+
 ```
-wealth capacity
-donor follow-up after a gift
-how to prioritize who to visit
-keeping donors engaged
-lapsed donor outreach
+prospect ratings
+proposal pipeline
+endowment funds
+stewardship
+donor retention
+wealth screening
+contact reports
+pledges
+```
+
+### Training Video Queries
+
+Natural language questions that should surface training content:
+
+```
+how to use tableau
+learn about collections
+how do I subscribe to a report
+getting started with cognos
+how to filter data in dashboards
+```
+
+### Glossary Term Lookups
+
+Queries that should return glossary definitions:
+
+```
+what is a funded proposal
+primary credit vs assist credit
+what does win rate mean
+proposal status definitions
 ```
 
 ### Cross-Type Discovery
+
+Queries that should return mixed results (reports + videos + glossary):
+
 ```
-prospect ratings
 proposals
-endowment
-stewardship
+prospect management
+contact activity
+fundraiser performance
 ```
 
-### With Type Filter
-```
-how to enter data                    [type=training_video]
-donor                                [type=glossary]
-campaign performance                 [type=report]
-```
+### Filtered Searches
 
-### With Category Filter
+Test type and category filters:
+
 ```
+# Type filters
+subscriptions                        [type=training_video]
+pledge                               [type=glossary]
+alumni giving                        [type=report]
+
+# Category filters
 financial summary                    [category=Keck Medicine]
-contact reports                      [category=Prospect Management]
+campaign performance                 [category=Athletics]
+donor activity                       [category=Prospect Management]
 ```
 
-### Demo Sequence
+### Demo Walkthrough
+
+A suggested sequence for demonstrating the search:
+
 ```
 1. LYBUNT
-2. how do I see which donors stopped giving
-3. track fundraiser performance against goals
-4. prospect ratings
-5. how to use tableau
-6. Keck financial
+   → Should return glossary definition and related reports
+
+2. which donors stopped giving
+   → Semantic match to LYBUNT/SYBUNT content
+
+3. proposal pipeline
+   → Should return proposal-related reports and glossary terms
+
+4. how to use tableau
+   → Should prioritize training videos
+
+5. prospect ratings
+   → Should return Prospects Ratings report and related content
+
+6. Keck financial summary
+   → Should return Keck Medicine financial reports
+
+7. what is primary credit
+   → Should return glossary definition
+```
+
+### Edge Cases
+
+```
+empty query                          → should return error
+single character                     → should handle gracefully  
+very long query with many words      → should still work
+special characters !@#$%             → should be handled
 ```

@@ -1,5 +1,3764 @@
 [
   {
+    "docId": "a35c4749-dc81-45c1-98a4-45fd258c46a9",
+    "type": "report",
+    "title": "Unit Campaign Reports Final (7/1/2010 - 12/31/2018)",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/728",
+    "category": "Frozen Campaign Reports (7/1/2010 - 12/31/2018)",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Campaign Performance",
+      "Major Gifts",
+      "Planned Giving",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "23c1fd55-3375-4fd4-9ac5-18b52f35118e",
+    "type": "report",
+    "title": "Unit Campaign Reports Final (7/1/2010 - 12/31/2018)",
+    "description": "This dashboard provides a comprehensive report of historical activity from the last campaign period (7/1/2010 - 12/31/2018), offering insights into fundraising performance, donor engagement, and key trends to inform future campaign strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/779",
+    "category": "Campaign Unit Reports (7/1/2010 - 12/31/2018)",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Campaign Performance",
+      "Gift Impact Reporting",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "No",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "8f92bab4-e322-4153-8707-0da4d86da66a",
+    "type": "report",
+    "title": "Campaign Fundraising by Fund Type per Unit (7/1/2010 - 12/31/2018)",
+    "description": "This dashboard provides a comprehensive report of historical activity from the last campaign period (7/1/2010 - 12/31/2018), offering insights into fundraising performance, donor engagement, and key trends to inform future campaign strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/780",
+    "category": "Campaign Unit Reports (7/1/2010 - 12/31/2018)",
+    "platform": "Tableau",
+    "tags": [
+      "Roski",
+      "Stewardship & Impact Reporting",
+      "Gift Impact Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "fc4284d4-79cb-4d9f-8543-6ce936ced728",
+    "type": "report",
+    "title": "Prospects Ratings and Predictive Scores",
+    "description": "This dashboard provides an overview of prospects, displaying their ratings alongside predictive scores to help assess potential giving capacity and prioritize engagement strategies based on data-driven insights.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1075",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Donor Interests & Affinities",
+      "Prospect Identification",
+      "Wealth Screening & Capacity Ratings",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "1eb627c8-4d8f-457a-b156-8a7ffc0c2e72",
+    "type": "report",
+    "title": "Work Plan Metrics Progress by School/Unit",
+    "description": "This dashboard tracks a development officer's fundraising activity against their Work Plan goals, with data summarized at the school level. It provides insights into performance, progress toward targets, and highlights areas where additional focus may be needed to meet goals effectively.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1077",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "927eea06-4bd3-49dc-9309-c0bbb2fe7913",
+    "type": "report",
+    "title": "Fundraiser Scores Adjustable Metrics",
+    "description": "This dashboard tracks fundraising activity for all development officers, providing comprehensive insights into performance, progress toward goals, and overall fundraising effectiveness across teams.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1088",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "13663aef-e8de-4973-9bdc-59cd668f93bc",
+    "type": "report",
+    "title": "Team Leader Report",
+    "description": "This dashboard tracks fundraising and cash activity for the Good Neighbors Campaign, offering segmentation by school or cost center. It provides insights into campaign performance, helping to evaluate progress toward goals and optimize fundraising efforts across different areas.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1130",
+    "category": "Good Neighbors",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Engagement",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Campaign Performance",
+      "Donor Recognition",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Development Officers",
+      "Volunteers (External)",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "b6080f28-2d48-478f-83c6-f7083a8b98dc",
+    "type": "report",
+    "title": "Contact Reports Activity",
+    "description": "This dashboard provides a comprehensive overview of contact report activity, segmented by development officer and/or school unit, offering insights into engagement efforts and supporting effective portfolio management.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1167",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "322586c6-f856-40c9-a3c9-772d4ddf9b2b",
+    "type": "report",
+    "title": "Recent Gifts and Donors",
+    "description": "This dashboard identifies recent gifts posted to the general ledger (G/L) along with associated donor information, providing insights into new contributions and supporting accurate financial tracking and donor stewardship efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1232",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Data Management & Integrity",
+      "Donor Interests & Affinities",
+      "Gift Processing",
+      "Major Gifts",
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "46ddc0a9-8240-47d3-9bc7-4ecd7d5c6090",
+    "type": "report",
+    "title": "1M+ Prospects",
+    "description": "This dashboard serves as an audit tool for reviewing prospects rated at $1M+ along with their contact activity. It includes filtering options by development officer and/or school/unit for more targeted analysis.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1243",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "3edb83b8-5e96-46ba-aba1-92d5512dc4f5",
+    "type": "report",
+    "title": "All Pledges Summary ",
+    "description": "This dashboard tracks all open pledge commitments and offers a high-level overview of active, completed, and written-off or canceled pledges, providing insights into pledge performance and fulfillment status.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1374",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "e4461a90-107d-4e60-8bcc-50bb6746d3e7",
+    "type": "report",
+    "title": "All Open Pledges",
+    "description": "This dashboard tracks all open pledge commitments and corresponding pledge payments. It also compares total funds received against expected amounts, providing insights into potential settlement delays.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1388",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "f4a00154-157e-4d7c-bb01-9f33d9257a59",
+    "type": "report",
+    "title": "Endowment Funds",
+    "description": "This dashboard monitors endowment reports for the Stewardship team, providing insights that enable efficient prioritization of stewardship tasks and ensuring timely donor engagement and reporting.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1458",
+    "category": "Stewardship and Donor Relations - Internal",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Stewardship & Impact Reporting",
+      "Endowment Reporting",
+      "Gift Impact Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "850de621-b281-402b-915e-aca89bf3ab72",
+    "type": "report",
+    "title": "Keck - Contact Report Activity",
+    "description": "This dashboard provides detailed insights into all substantive contact reports for the Keck School of Medicine, highlighting key engagement activities, prospect interactions, and follow-up actions to support strategic fundraising and relationship management efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1581",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Prospect Development & Research",
+      "Executive Summary",
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "ba5eea34-f018-48aa-8d59-ae2417156d58",
+    "type": "report",
+    "title": "Keck - Clinician/Researcher Visits",
+    "description": "This dashboard provides detailed insights into all faculty visits to the Keck School of Medicine, including visit purposes, participating departments, and engagement outcomes to support strategic relationship management and collaboration efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1582",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "656c10c8-454e-43be-97c0-3fb7e26cfcc4",
+    "type": "report",
+    "title": "Top 20 Donors & Gifts by Fiscal Year",
+    "description": "This dashboard identifies the top 20 donors and their gifts by fiscal year, providing insights into major contributions and helping to recognize key supporters while guiding strategic donor engagement and stewardship efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1672",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "dfb5aa1f-a736-46a2-aa62-1d3691171b73",
+    "type": "report",
+    "title": "Keck $1M+ Donors & Family",
+    "description": "This dashboard provides relationship mapping of Keck constituents rated at $1M+, offering visual insights into connections, affiliations, and networks to support strategic engagement and high-level fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1680",
+    "category": "Keck Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Prospect Development & Research",
+      "Stewardship & Impact Reporting",
+      "Data Management & Integrity",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "7ead68c3-e6e3-4299-886b-1b16058df8fc",
+    "type": "report",
+    "title": "Keck Medicine Financial Summary",
+    "description": "This dashboard provides a comprehensive overview of fundraising and cash activity for the Keck School of Medicine in the current fiscal year. It offers insights into progress toward financial goals, donor contributions, and fundraising trends, supporting data-driven decision-making and strategic planning.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1703",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Campaign Performance",
+      "Pledges & Commitments",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "9ed61d7b-6077-4779-ac8e-8ae3092a1f96",
+    "type": "report",
+    "title": "Classical California Direct Mail Summary",
+    "description": "This dashboard provides a comprehensive overview of renewal results for active and inactive mailings, broken down by month for the current fiscal year. It offers insights into response rates, trends, and overall renewal performance, helping to optimize future outreach strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1779",
+    "category": "Classical California",
+    "platform": "Tableau",
+    "tags": [
+      "USC Radios",
+      "Financial Reporting",
+      "Marketing & Communications",
+      "Campaign Performance",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "3c72ba45-ddd8-44f4-ba59-7fa606ffc3f3",
+    "type": "report",
+    "title": "Classical California Sustainer Pledge Summary",
+    "description": "This dashboard provides a comprehensive overview of canceled sustainer pledges, segmented by fiscal year and month. It helps identify trends in pledge cancellations, offering insights into donor retention and enabling targeted strategies for improving pledge fulfillment.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1781",
+    "category": "Classical California",
+    "platform": "Tableau",
+    "tags": [
+      "USC Radios",
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Executive Summary",
+      "Historical Reporting",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "c2a6a366-616c-4697-9474-96f7e406f8b7",
+    "type": "report",
+    "title": "Classical California Invalid Credit Cards Summary",
+    "description": "This dashboard provides a comprehensive overview of invalid credit card pledges for KDFC and KUSC, highlighting key data on pledge status, reasons for invalidation, and trends. It helps identify areas for resolution and enables more effective management of donor contributions.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1783",
+    "category": "Classical California",
+    "platform": "Tableau",
+    "tags": [
+      "USC Radios",
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Gift Processing",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "c0dac81c-3f83-4883-b3b5-a4e6d04133b2",
+    "type": "report",
+    "title": "Classical California Membership Summary",
+    "description": "This dashboard provides a comprehensive overview of the details of KUSC and KDFC members, including key metrics such as membership status, giving activity, engagement history, and demographics. It helps support targeted outreach and membership management strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1785",
+    "category": "Classical California",
+    "platform": "Tableau",
+    "tags": [
+      "USC Radios",
+      "Engagement",
+      "Financial Reporting",
+      "Affinity Groups",
+      "Annual Giving",
+      "Campaign Performance",
+      "Executive Summary",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "0fdded22-57ed-480b-bcd2-c7730ffaf8d0",
+    "type": "report",
+    "title": "Classical California Monthly Revenue Summary",
+    "description": "This dashboard provides a comprehensive overview and comparison of the revenue techniques used for KUSC members in the current fiscal year. It highlights performance across different fundraising strategies, helping to identify effective methods and areas for improvement in revenue generation.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1856",
+    "category": "Classical California",
+    "platform": "Tableau",
+    "tags": [
+      "USC Radios",
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Gift Processing",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "cc2c962c-1332-4d75-b4c1-fd5becfaf5ea",
+    "type": "report",
+    "title": "Classical California Cancelled Sustainer Pledges Summary",
+    "description": "This dashboard provides a comprehensive overview of canceled sustainer pledges, segmented by fiscal year and month. It helps identify trends in pledge cancellations, offering insights into donor retention and enabling targeted strategies for improving pledge fulfillment.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1917",
+    "category": "Classical California",
+    "platform": "Tableau",
+    "tags": [
+      "USC Radio - KUSC/KDFC",
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Historical Reporting",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "89c61661-1c1a-4d69-b786-560898a825e2",
+    "type": "report",
+    "title": "Marshall School of Business Top Donors",
+    "description": "This dashboard highlights the top donors of the Marshall and Leventhal Schools of Business, showcasing key contribution metrics, giving patterns, and donor engagement levels to support strategic stewardship and fundraising initiatives.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1959",
+    "category": "Marshall",
+    "platform": "Tableau",
+    "tags": [
+      "Marshall",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Endowment Reporting",
+      "Gift Processing",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "301cd4e9-22e4-4d2d-871e-be8932ff2738",
+    "type": "report",
+    "title": "USC Advancement Staff",
+    "description": "This dashboard identifies new Advancement staff members who require a new portfolio, helping to streamline the assignment process and ensure proper allocation of prospects for efficient engagement and relationship management.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/1980",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Portfolio & Assignments Management",
+      "Advancement Admin. / Operations Staff",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "746ec5cd-fe9a-41df-9732-c7124a22e56b",
+    "type": "report",
+    "title": "AUDIT - Keck Designations to-be-mapped to WPU",
+    "description": "This dashboard audits and identifies Keck designations that are missing a Work Plan Unit, ensuring data completeness.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2000",
+    "category": "Keck Audits",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "e65d3c20-2bc7-4fd6-adc9-f54751ec2626",
+    "type": "report",
+    "title": "AUDIT - Keck Proposals with blank Work Plan Unit",
+    "description": "This dashboard audits and identifies Keck proposals that are missing a Work Plan Unit, ensuring data accuracy",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2001",
+    "category": "Keck Audits",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "2862d4fb-bceb-40b9-8292-47d0640df564",
+    "type": "report",
+    "title": "AUDIT - Keck Clinician_Researcher Visits",
+    "description": "This dashboard audits and identifies Keck visits where the 'Assigned Fundraiser' field requires further review and updates, ensuring accurate attribution and streamlined fundraiser assignment processes.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2002",
+    "category": "Keck Audits",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "c2396c6e-2971-4f12-9b37-39eb924da558",
+    "type": "report",
+    "title": "Audit: 2+ Primary Credits on Proposals",
+    "description": "This dashboard is an audit tool to identify open proposals with two or more primary credit assignments, enabling users to efficiently review and resolve potential credit attribution discrepancies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2011",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Major Gifts",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "3b34d57a-ee69-4281-8376-1624a6485aa6",
+    "type": "report",
+    "title": "Parent_PLC Dashboard",
+    "description": "This dashboard segments Parent Leadership Circle (PLC) members by their giving capacity and demographic information, providing valuable insights to inform targeted engagement strategies and optimize fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2024",
+    "category": "Parents",
+    "platform": "Tableau",
+    "tags": [
+      "Engagement",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "dad2a7e1-6447-42b8-b90c-96a55560f9bc",
+    "type": "report",
+    "title": "Parent Assignments",
+    "description": "This dashboard segments parent constituent types by giving capacity and demographic information, facilitating the process of assigning or reassigning prospects to development officers for more targeted engagement and strategic fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2025",
+    "category": "Parents",
+    "platform": "Tableau",
+    "tags": [
+      "Engagement",
+      "Prospect Development & Research",
+      "Donor Interests & Affinities",
+      "Portfolio & Assignments Management",
+      "Prospect Identification",
+      "Regional Engagement",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "f1b52cf8-de9a-400b-a934-d9aaa9f27136",
+    "type": "report",
+    "title": "Shoah Foundation Financial Summary",
+    "description": "This dashboard provides a comprehensive overview and comparison of fundraising progress for the current fiscal year versus the prior fiscal year. It highlights key performance metrics, trends, and growth areas to support strategic planning and data-driven decision-making for future fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2038",
+    "category": "Shoah Foundation",
+    "platform": "Tableau",
+    "tags": [
+      "Shoah Foundation",
+      "Financial Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Historical Reporting",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "6d783af3-1109-491d-b8af-452471b29912",
+    "type": "report",
+    "title": "Endowment Gifts",
+    "description": "This dashboard monitors endowment gifts that require an endowment report, ensuring timely reporting and supporting effective donor stewardship and compliance with reporting obligations.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2072",
+    "category": "Stewardship and Donor Relations - Internal",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Stewardship & Impact Reporting",
+      "Donor Recognition",
+      "Endowment Reporting",
+      "Gift Processing",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "724f9948-3d8d-456d-aaf2-df35b301dea6",
+    "type": "report",
+    "title": "Marshall and Leventhal Gift Activity",
+    "description": "This dashboard tracks fundraising and cash activity for the Marshall and Leventhal Schools of Business, providing insights into donor contributions, progress toward financial goals, and fundraising trends to support strategic planning and informed decision-making.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2085",
+    "category": "Marshall",
+    "platform": "Tableau",
+    "tags": [
+      "Marshall",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Campaign Performance",
+      "Gift Processing",
+      "Major Gifts",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "2a38c5a7-c723-4291-9fe2-2c29bc80e283",
+    "type": "report",
+    "title": "OMAG Acquisition Report",
+    "description": "This dashboard monitors donor activity for the Medical Annual Giving (OMAG) program, providing insights into giving patterns, donor retention rates, and engagement trends to support strategic fundraising efforts and optimize annual giving outcomes.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2095",
+    "category": "Medical Annual Giving (OMAG)",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Advancement Services & Operations",
+      "Engagement",
+      "Financial Reporting",
+      "Marketing & Communications",
+      "Prospect Development & Research",
+      "Stewardship & Impact Reporting",
+      "Data Management & Integrity",
+      "Gift Processing",
+      "Major Gifts",
+      "Portfolio & Assignments Management",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "04c97b45-5f53-4db6-bf3b-eb189c2a6195",
+    "type": "report",
+    "title": "Marshall Annual Funds Summary",
+    "description": "This dashboard tracks fundraising and cash activity for the Marshall and Leventhal Schools of Business, comparing current performance against previous fiscal years. It includes filtering options by designation, enabling users to analyze trends, assess progress toward goals, and support data-driven fundraising strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2105",
+    "category": "Marshall",
+    "platform": "Tableau",
+    "tags": [
+      "Marshall",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "6143eac9-f626-4843-b92e-5358e87f3776",
+    "type": "report",
+    "title": "Scholarship Gifts",
+    "description": "This dashboard provides a comprehensive overview of scholarship gifts received, organized by date. It offers insights into donation trends, allowing for a detailed analysis of giving patterns and supporting strategic scholarship fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2112",
+    "category": "Unit Level Reports",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Advancement Services & Operations",
+      "Stewardship & Impact Reporting",
+      "Donor Recognition",
+      "Gift Impact Reporting",
+      "Gift Processing",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "b55d1aa0-c172-4398-a898-98ebcef997bf",
+    "type": "report",
+    "title": "Keck Medicine $25k+ Donors",
+    "description": "This dashboard segments Keck donors rated at $25K+ by their top designation given and fiscal year, providing insights into giving trends, donor priorities, and funding patterns to support targeted stewardship and strategic fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2212",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Endowment Reporting",
+      "Gift Processing",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "66ecaa16-af79-4c50-a67e-e27f6b509ee4",
+    "type": "report",
+    "title": "Health Giving Circle ",
+    "description": "This dashboard segments Health Giving Circle members based on their giving activity and demographic profiles, providing insights to inform targeted engagement strategies and optimize fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2221",
+    "category": "Medical Annual Giving (OMAG)",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Prospect Development & Research",
+      "Stewardship & Impact Reporting",
+      "Data Management & Integrity",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "97b1e7c2-0419-42c4-ac2b-5190c93c7075",
+    "type": "report",
+    "title": "Shoah Foundation Consecutive Giving Summary",
+    "description": "This dashboard tracks donors who have given in consecutive years to the Shoah Foundation, providing insights into donor retention, giving patterns, and opportunities for further engagement and stewardship to strengthen long-term support.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2226",
+    "category": "Shoah Foundation",
+    "platform": "Tableau",
+    "tags": [
+      "Shoah Foundation",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Donor Recognition",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "a0ee1782-59f8-4fd6-b327-8a63a2eed9cf",
+    "type": "report",
+    "title": "Law Leadership Annual Giving",
+    "description": "This dashboard monitors fundraising and cash activity for the Law Leadership Giving Society, providing insights into donor contributions, progress toward financial goals, and engagement trends to support strategic planning and stewardship efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2237",
+    "category": "Gould School of Law",
+    "platform": "Tableau",
+    "tags": [
+      "Gould",
+      "Engagement",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Campaign Performance",
+      "Donor Recognition",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "bd6982a5-c50a-4eec-8210-d9d4e8095578",
+    "type": "report",
+    "title": "OMAG At-a-Glance",
+    "description": "This dashboard tracks fundraising and cash activity for the Medical Annual Giving (OMAG) program, providing insights into donation trends, progress toward goals, and overall program performance to support strategic planning and donor engagement efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2239",
+    "category": "Medical Annual Giving (OMAG)",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Prospect Development & Research",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Campaign Performance",
+      "Data Management & Integrity",
+      "Gift Processing",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "ae58587f-705c-4d08-9f09-b5c7e72c13b1",
+    "type": "report",
+    "title": "Marketing Cloud (MC) Stats",
+    "description": "This dashboard monitors email marketing activity, providing key performance metrics such as open rates, click-through rates, and engagement trends. Sourced from Marketing Cloud, it offers actionable insights to optimize campaign effectiveness and improve audience targeting strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2251",
+    "category": "Marketing Cloud",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Marketing & Communications",
+      "Alumni Relations",
+      "Marketing Cloud",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "2d6c3787-6ead-4392-884f-71581ebca73c",
+    "type": "report",
+    "title": "Marshall/Leventhal Annual Giving ",
+    "description": "This dashboard tracks the annual giving activity performance for the Marshall and Leventhal Schools of Business. Key performance metrics include appeal channel effectiveness, donor retention rates, and year-over-year giving totals, providing insights to inform strategic fundraising decisions and optimize donor engagement efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2254",
+    "category": "Marshall",
+    "platform": "Tableau",
+    "tags": [
+      "Marshall",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Donor Recognition",
+      "Gift Processing",
+      "Advancement Leadership",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "858df3e5-9426-4cc3-a20b-7d6be10f2f97",
+    "type": "report",
+    "title": "Parent Leadership Circle (PLC) Members",
+    "description": "This dashboard tracks fundraising and cash activity for Parent Leadership Circle (PLC) members, segmenting data by giving level and fiscal year. It provides insights into donor contributions, giving trends, and overall performance to support targeted engagement and strategic fundraising initiatives.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2298",
+    "category": "Parents",
+    "platform": "Tableau",
+    "tags": [
+      "Engagement",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "5e5bbb0e-d69d-475b-a28c-9c101fe2bb8e",
+    "type": "report",
+    "title": "USC Viterbi Annual Giving ",
+    "description": "This dashboard tracks annual giving activity for Viterbi, providing insights into donor contributions, engagement trends, and progress toward annual fundraising goals. It helps support strategic decision-making and optimize outreach efforts for future campaigns.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2311",
+    "category": "Viterbi",
+    "platform": "Tableau",
+    "tags": [
+      "Viterbi",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Campaign Performance",
+      "Donor Recognition",
+      "Gift Impact Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "37c84a89-ff36-48e9-a782-7a8b09545131",
+    "type": "report",
+    "title": "Innovation Partners (V.I.P) Members",
+    "description": "This dashboard tracks the fundraising and cash activity of Innovation Partners members, providing insights into trends and opportunities for strategic engagement and stewardship.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2312",
+    "category": "Viterbi",
+    "platform": "Tableau",
+    "tags": [
+      "Viterbi",
+      "Engagement",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Affinity Groups",
+      "Annual Giving",
+      "Donor Recognition",
+      "Gift Impact Reporting",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "4b2d3e7d-7255-4390-a18c-fdfa036dd375",
+    "type": "report",
+    "title": "Dornsife Events Dashboard",
+    "description": "This dashboard segments Dornsife event attendees by giving patterns and demographics, offering actionable insights to inform strategic engagement and fundraising planning.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2317",
+    "category": "Dornsife",
+    "platform": "Tableau",
+    "tags": [
+      "Dornsife",
+      "Engagement",
+      "Alumni Relations",
+      "Board and Volunteer Engagement",
+      "Digital Engagement Performance",
+      "Events & Reunions",
+      "Giving Societies",
+      "Involvement Codes",
+      "Regional Engagement",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "fb0f12f9-75fc-432d-80d2-b3ec53e5323c",
+    "type": "report",
+    "title": "Marshall School of Business Female Donors",
+    "description": "This dashboard highlights the giving activity of Marshall and Leventhal donors identified as female, providing insights into contribution trends, donor engagement patterns, and opportunities for targeted fundraising strategies and outreach initiatives.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2425",
+    "category": "Marshall",
+    "platform": "Tableau",
+    "tags": [
+      "Marshall",
+      "Prospect Development & Research",
+      "Stewardship & Impact Reporting",
+      "Campaign Performance",
+      "Donor Recognition",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "605f2fe9-eb70-49c4-ba3c-354752641208",
+    "type": "report",
+    "title": "Classical California Pledge Drive Report",
+    "description": "This dashboard provides a comprehensive overview of the On-Air Revenue Technique for the KUSC Pledge Drive, tracking daily performance and contributions. It offers insights into fundraising trends, enabling better decision-making and optimizing on-air strategies for the drive.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2430",
+    "category": "Classical California",
+    "platform": "Tableau",
+    "tags": [
+      "USC Radios",
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Marketing & Communications",
+      "Campaign Performance",
+      "Gift Processing",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "e04d203e-8ae1-432b-9ddd-d4e67d19a247",
+    "type": "report",
+    "title": "Athletics Campaign Fundraising and Cash",
+    "description": "This dashboard tracks fundraising and cash activity for the Athletics Campaign in the current fiscal year, providing  insights into progress toward campaign goals. It includes detailed breakdowns by donor segment and gift type, along with trend analysis and year-over-year comparisons to support strategic planning and donor engagement efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2456",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "Athletics",
+      "Campaign Performance",
+      "Executive Summary",
+      "Gift Processing",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "dd7bd371-5927-4c59-9f80-82753466fdf6",
+    "type": "report",
+    "title": "Associates Member Overview",
+    "description": "This dashboard offers a high-level overview of Associates members, featuring key insights into their giving activity and demographic information for a comprehensive understanding of engagement patterns.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2466",
+    "category": "Associates",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Engagement",
+      "Financial Reporting",
+      "Alumni Relations",
+      "Events & Reunions",
+      "Gift Processing",
+      "Regional Engagement",
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "ec0f62e6-3376-4797-a1be-73b11d0db7be",
+    "type": "report",
+    "title": "Neuroscience Fundraising and Cash Summary",
+    "description": "This dashboard tracks the fundraising and cash activity of the Neuroscience and Neurosurgery Work Plan Unit within Keck. It provides insights into donor contributions, progress toward financial goals, and fundraising trends, supporting strategic planning and targeted donor engagement efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2521",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Campaign Performance",
+      "Advancement Leadership",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "41669bbf-9874-4f63-9d70-6b15bf80d1c3",
+    "type": "report",
+    "title": "Emeriti Center Fundraising Summary",
+    "description": "This dashboard tracks fundraising and cash activity for the Emeriti Center, providing a month-by-month progress summary to highlight trends, monitor performance, and support data-driven fundraising strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2535",
+    "category": "Emeriti Center",
+    "platform": "Tableau",
+    "tags": [
+      "Emeriti Center",
+      "Financial Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d5567450-61aa-4e06-be80-d88e6d30fa21",
+    "type": "report",
+    "title": "University Fundraising and Cash",
+    "description": "This dashboard provides a high-level overview of a school or unit's fundraising and cash progress, segmenting dollars by source, priority, and purpose. It also includes a 5-year lookback, offering valuable insights into long-term trends, performance, and areas for strategic focus in future fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2613",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Campaign Performance",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "b96f0fbc-0130-4211-8d35-a801f10017b6",
+    "type": "report",
+    "title": "University Fundraising and Cash Pyramid",
+    "description": "This dashboard reports fundraising and cash activity from the last five fiscal years, segmenting dollar amounts by giving level. It allows for easy analysis of giving trends over time, offering insights into donor behavior and helping to guide strategic fundraising decisions.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2687",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "bec44dd5-ef3b-4510-abeb-de6874c8c71f",
+    "type": "report",
+    "title": "University Fundraising and Cash FY11-Present Snapshot",
+    "description": "This dashboard provides a table view of fundraising and cash progress by school or unit, segmenting dollar amounts by gift type. It includes the ability to filter by purpose group, allowing for detailed analysis of giving trends and progress toward financial goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2704",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "b72358f5-fe9b-4cce-be37-a7e4e95df9b5",
+    "type": "report",
+    "title": "Advisory Board Summary",
+    "description": "This dashboard provides an in-depth overview of Viterbi Advisory Board members, offering detailed insights into their profiles, engagement activities, and contributions.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2732",
+    "category": "Viterbi",
+    "platform": "Tableau",
+    "tags": [
+      "Viterbi",
+      "Engagement",
+      "Prospect Development & Research",
+      "Affinity Groups",
+      "Donor Interests & Affinities",
+      "Wealth Screening & Capacity Ratings",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "e5f4ba7b-a1a9-486f-b848-26ff1937669f",
+    "type": "report",
+    "title": "Keck MD Alumni Reunion Giving",
+    "description": "This dashboard segments Doctor of Medicine alumni based on their giving activity and demographic profiles, providing actionable insights to inform targeted engagement strategies, alumni relations, and fundraising initiatives.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2755",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "c0d704db-cb76-4c08-9cec-2ebe83e2f228",
+    "type": "report",
+    "title": "Transformational Prospects",
+    "description": "This dashboard provides a comprehensive overview of all transformational prospects, segmented by constituent type, rating, readiness stage, and other key factors. It offers insights into the prospect pipeline, enabling targeted engagement strategies and informed decision-making for high-impact fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2795",
+    "category": "Executive Suite (With Drill Down)",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Principal/Transformational Gifts",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "c1e42aa7-933f-4b17-ad19-a5b2d9ee3afb",
+    "type": "report",
+    "title": "Principal and Transformational Gifts",
+    "description": "This dashboard provides a high-level overview of principal and transformational gifts, tracking key contributions and providing insights into donor engagement, funding trends, and progress toward major fundraising goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2841",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "ceae266a-4018-4199-89ef-18c0e35e0140",
+    "type": "report",
+    "title": "Gift Planning Fundraising Overview",
+    "description": "This dashboard tracks fundraising activity solicited by the Gift Planning team, providing insights into progress toward goals, donor engagement trends, and the overall impact of planned giving strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2845",
+    "category": "Central Development",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Prospect Development & Research",
+      "Annual Giving",
+      "Executive Summary",
+      "Major Gifts",
+      "Planned Giving",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "376c6109-31ce-48a3-8a96-7c17fbecf8f3",
+    "type": "report",
+    "title": "School/Unit Fundraising Summary",
+    "description": "This dashboard provides a high-level overview of a school or unit's fundraising and cash summary, tracking performance against set goals. It offers insights into progress, helping to identify areas of success and opportunities for improvement to ensure alignment with overall fundraising objectives.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2891",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Executive Summary",
+      "Principal/Transformational Gifts",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "0e0f9942-f8d9-422c-bdb5-0029ee01f233",
+    "type": "report",
+    "title": "Advancement Activity Snapshot (With Drill Down)",
+    "description": "This dashboard offers a comprehensive overview of fundraising and cash goals, along with progress for the current fiscal year. It also features drill-down capabilities for deeper analysis at the school/unit level.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2892",
+    "category": "Executive Suite (With Drill Down)",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Executive Summary",
+      "Historical Reporting",
+      "University Goals & Performance",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "071f01e8-552c-4286-8f70-e8fc5f2d20b5",
+    "type": "report",
+    "title": "School/Unit Fundraising Summary (With Drill Down)",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2908",
+    "category": "Executive Suite (With Drill Down)",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Financial Reporting",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "894af049-1add-4cca-9ac2-dd91091c3a05",
+    "type": "report",
+    "title": "Advancement Activity Snapshot",
+    "description": "This dashboard tracks fundraising and cash activity for the current fiscal year, providing insights into progress against school/unit goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2911",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Prospect Pipeline",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "1f467fb9-22bb-42cc-b268-3cef818ad9a1",
+    "type": "report",
+    "title": "Keck Medicine -  Workplan Progress FY24",
+    "description": "This dashboard presents the fundraising activity of Keck development officers for FY24, comparing actual performance against their FY24 work plan goals. It offers insights into progress, goal attainment, and areas for strategic improvement to optimize fundraising outcomes.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2913",
+    "category": "Archived Keck WP Reports",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "072fc09d-6fe1-472b-9302-22cc730b9cce",
+    "type": "report",
+    "title": "Audit: Contact Reports Pending Review",
+    "description": "This dashboard identifies contact reports pending review, enabling timely follow-up and ensuring accurate, up-to-date documentation of engagement activities.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2939",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "6f0e261d-73d0-4b12-bed6-63c949a81d32",
+    "type": "report",
+    "title": "Shoah Prospects",
+    "description": "This dashboard provides a high-level overview of Shoah prospects, segmented by giving activity, demographics, and geographic location. It offers valuable insights into donor trends and engagement, supporting targeted outreach and strategic fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2941",
+    "category": "Shoah Foundation",
+    "platform": "Tableau",
+    "tags": [
+      "Shoah Foundation",
+      "Prospect Development & Research",
+      "Stewardship & Impact Reporting",
+      "Donor Recognition",
+      "Historical Reporting",
+      "Wealth Screening & Capacity Ratings",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "a138122b-b50b-40fd-bfbe-a23497203433",
+    "type": "report",
+    "title": "Monthly Fundraising and Cash Summary",
+    "description": "This dashboard provides a high-level overview of fundraising and cash totals, along with year-to-date (YTD) activity broken down by month. It includes the ability to filter and view data by school or unit, offering insights to support strategic planning and performance tracking across different areas.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2948",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "031dd6ae-ce77-4efa-9641-4f667c9a8859",
+    "type": "report",
+    "title": "Audit: Assigned Former Staff",
+    "description": "This dashboard serves as an auditing tool to identify and flag any assigned prospects or records linked to former staff, ensuring accurate portfolio management and proper reassignment.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2964",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Central Advancement",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "32a7005e-7d45-4dca-b482-b11e30eea88d",
+    "type": "report",
+    "title": "Audit: Constituents Rated $1M+",
+    "description": "This dashboard provides a comprehensive and up-to-date overview of the Constituents rated as $1M+ to streamline the process of rating verification for assignments requests and related tasks",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2973",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "9fa72cf4-1ca3-4050-932b-06737c324ca6",
+    "type": "report",
+    "title": "Proposal Snapshot",
+    "description": "This dashboard offers a high-level overview of the status of open proposals from any fiscal year, as well as closed proposals within the current fiscal period. It serves as a quick reference tool for assessing the overall performance of schools/units or individual fundraisers, enabling strategic decision-making and performance evaluation.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2995",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Advancement Leadership",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "eb37d678-01c1-4eea-a0aa-8033b8fd15d7",
+    "type": "report",
+    "title": "Audit: Multiple Assignments Same Fundraiser 10-20-23",
+    "description": "This dashboard audits and identifies any duplicative records, ensuring data integrity and supporting accurate reporting, analysis, and engagement strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/2999",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "2194138a-cdac-43a2-a4d9-badab37666e6",
+    "type": "report",
+    "title": "Health Campaign Fundraising and Cash",
+    "description": "This dashboard tracks fundraising and cash activity for the Health Campaign during the current fiscal year, providing insights into progress toward campaign goals and supporting data-driven fundraising strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3038",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Prospect Development & Research",
+      "Executive Summary",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "de05e8ba-fa7d-4303-b94c-20f1b631fd4b",
+    "type": "report",
+    "title": "Widney Society Members",
+    "description": "This dashboard provides a comprehensive overview of Widney Society members and their giving activity, offering insights into donation trends, engagement levels, and membership contributions to support targeted stewardship and strategic fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3058",
+    "category": "Stewardship and Donor Relations - Internal",
+    "platform": "Tableau",
+    "tags": [
+      "Engagement",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Affinity Groups",
+      "Annual Giving",
+      "Donor Recognition",
+      "Executive Summary",
+      "Advancement Leadership",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "c4c35349-9ea4-47f3-90b3-9ffbda004f73",
+    "type": "report",
+    "title": "Principal Gifts Across Plus Delta Cohorts",
+    "description": "This dashboard tracks principal gift activity solicited by the Plus Delta Cohorts of Development Officers, providing insights into solicitation progress and performance metrics to support strategic planning and enhance fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3067",
+    "category": "Executive Suite (With Drill Down)",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "8a995251-ac48-4e63-8b36-5f56d7350766",
+    "type": "report",
+    "title": "Contact Information Completeness Matrix",
+    "description": "The Contact Information Completion Matrix Dashboard utilizes a heat map, where red indicates areas with less available contact data. This visual cue helps users quickly identify incomplete or missing information, allowing for targeted efforts to improve data completeness and accuracy within the Salesforce platform.\nAuthor(s): Maria Barrera, Samantha Chong",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3101",
+    "category": "Data Management",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "ebc92061-6825-4721-911a-f5fb16e62a38",
+    "type": "report",
+    "title": "Proposal Explorer",
+    "description": "This dashboard enables Development Officers to efficiently manage and prioritize proposals by highlighting those that require data refinement, ensuring data accuracy and integrity. It also provides a comprehensive view of the proposal pipeline, allowing for better tracking and decision-making.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3125",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d87fb17f-e656-490f-9993-8f137fcee128",
+    "type": "report",
+    "title": "Principal and Transformational Gifts (With Drill Down)",
+    "description": "This dashboard provides a high-level overview of principal and transformational gifts, tracking key contributions and providing insights into donor engagement, funding trends, and progress toward major fundraising goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3126",
+    "category": "Executive Suite (With Drill Down)",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Executive Summary",
+      "Gift Processing",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Prospect Pipeline",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "a891f1b0-e3da-47cb-a8f8-79646cb7fe7c",
+    "type": "report",
+    "title": "Monthly Transactions Summary",
+    "description": "This dashboard tracks monthly fundraising and cash activity, providing insights into giving trends, seasonal patterns, and progress toward financial goals to support strategic planning and fundraising optimization.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3143",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "1dea61cf-61a6-4c55-bb78-ca33bdb0f441",
+    "type": "report",
+    "title": "Keck Medicine Contact Information Completeness Matrix",
+    "description": "The Keck Medicine Contact Information Completion Matrix Dashboard utilizes a heat map, where red indicates areas with less available contact data. This visual cue helps users quickly identify incomplete or missing information, allowing for targeted efforts to improve data completeness and accuracy within the Salesforce platform.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3254",
+    "category": "Data Management",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "0846276e-fa76-4759-af2f-3fa9538e0a34",
+    "type": "report",
+    "title": "Shoah Contact Information Completeness Matrix",
+    "description": "The Shoah Contact Information Completion Matrix Dashboard utilizes a heat map, where red indicates areas with less available contact data. This visual cue helps users quickly identify incomplete or missing information, allowing for targeted efforts to improve data completeness and accuracy within the Salesforce platform.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3255",
+    "category": "Data Management",
+    "platform": "Tableau",
+    "tags": [
+      "Shoah Foundation",
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "2e54f153-89c4-4f57-935e-fc01e55e5f62",
+    "type": "report",
+    "title": "Schaeffer Institute Fundraising and Cash Pyramid",
+    "description": "This dashboard tracks fundraising and cash activity against the giving pyramid for the Schaeffer Institute, offering insights into donor contributions at various giving levels, helping to identify trends and opportunities to optimize fundraising efforts across all tiers.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3258",
+    "category": "Schaeffer Institute",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Historical Reporting",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "ca379ab2-9777-4109-a926-c246285695a1",
+    "type": "report",
+    "title": "Schaeffer Institute Monthly Fundraising and Cash Summary",
+    "description": "This dashboard tracks monthly fundraising and cash activity for the Schaeffer Institute, providing insights into giving trends, seasonal patterns, and progress toward financial goals to support data-driven decision-making and strategic planning.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3259",
+    "category": "Schaeffer Institute",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "df72dd11-9e25-47d6-bdc7-46908d532cfb",
+    "type": "report",
+    "title": "Constituents by Region",
+    "description": "This dashboard provides a high-level demographic and giving activity of constituents by a defined region.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3280",
+    "category": "Central Development",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Alumni Relations",
+      "Executive Summary",
+      "Giving Societies",
+      "Parents",
+      "Regional Engagement",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d8e493be-f80f-48ab-9003-3d16b6f77256",
+    "type": "report",
+    "title": "Monthly Fundraising and Cash Pyramid",
+    "description": "This dashboard tracks monthly fundraising and cash activity against the gift pyramid, providing insights into progress across giving levels, identifying gaps in the fundraising pipeline, and supporting strategic efforts to achieve campaign goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3284",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Gift Processing",
+      "Historical Reporting",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d21d962e-f1b2-416a-b0f0-26dae1804a6f",
+    "type": "report",
+    "title": "My Portfolio",
+    "description": "This dashboard provides a comprehensive overview of a development officer's portfolio, tracking fundraising activity against key performance metrics such as donor engagement, gift pipeline progress, and solicitation outcomes. It offers actionable insights to support portfolio optimization, ensuring strategic alignment with fundraising goals and maximizing donor potential.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3287",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Portfolio & Assignments Management",
+      "University Goals & Performance",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "e2c6ce79-3770-4449-8b00-e61dc1328495",
+    "type": "report",
+    "title": "Lisa Yeh's Team - Workplan Yr/Yr Comparison",
+    "description": "This dashboard tracks the fundraising activity of development officers from the Central Development team, measuring progress against their Work Plan goals. It provides insights into individual and team performance, supporting strategic planning and goal alignment.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3288",
+    "category": "Lisa Yeh's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Major Gifts",
+      "Portfolio & Assignments Management",
+      "Principal/Transformational Gifts",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "086c2c1a-a039-44ce-af3a-48573daea606",
+    "type": "report",
+    "title": "USC Competes Fundraising and Cash",
+    "description": "This dashboard provides a comprehensive overview of the fundraising and cash progress for USC Competes, tracking key performance metrics, progress toward goals, and donor contributions to support strategic planning.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3296",
+    "category": "Lisa Yeh's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Pledges & Commitments",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d28c4f0d-10bf-4939-a685-7d3289c95115",
+    "type": "report",
+    "title": "Alumni Reunion Cohorts Contact Completeness Matrix",
+    "description": "The Contact Information Completion Matrix Dashboard utilizes a heat map, where red indicates areas with less available contact data. This visual cue helps users quickly identify incomplete or missing information, allowing for targeted efforts to improve data completeness and accuracy within the Salesforce platform.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3313",
+    "category": "Annual Giving",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "d57cd828-f58f-4e1b-a345-5b5d787aac30",
+    "type": "report",
+    "title": "Monthly Fundraising and Cash Summary by Campaign-Priority",
+    "description": "This dashboard tracks fundraising and cash activity solicited by the Central Development team, segmenting dollar amounts by campaign priority. It provides insights into progress toward strategic goals, funding distribution across priorities, and supports data-driven decision-making for future fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3334",
+    "category": "Lisa Yeh's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d0be1361-b72e-4d97-8ad9-a3f92af607f0",
+    "type": "report",
+    "title": "Health Campaign Pyramid by Gift Type",
+    "description": "This dashboard offers a comprehensive overview of fundraising and cash goals for the Health Campaign, tracking progress against the gift pyramid.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3336",
+    "category": "Lisa Yeh's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Historical Reporting",
+      "Pledges & Commitments",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "7a14049e-f3c8-4bc6-b32f-0f3289e77e35",
+    "type": "report",
+    "title": "Alumni Affinity Cohorts Contact Completeness Matrix",
+    "description": "The Contact Information Completion Matrix Dashboard utilizes a heat map, where red indicates areas with less available contact data. This visual cue helps users quickly identify incomplete or missing information, allowing for targeted efforts to improve data completeness and accuracy within the Salesforce platform.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3354",
+    "category": "Annual Giving",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "508b3c36-d1d3-446e-8dac-d76f638cf481",
+    "type": "report",
+    "title": "F.A.S.S. Team - Workplan Yr/Yr Comparison",
+    "description": "This dashboard tracks the fundraising activity of development officers against their Work Plan goals, focusing exclusively on officers from the Frontiers of Computing, The Arts, Shoah Foundation, and Sustainability (F.A.S.S.) teams, offering insights to support performance evaluation.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3358",
+    "category": "Sarah Trudell-McCoy's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Prospect Development & Research",
+      "Campaign Performance",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "00125b51-fdc3-4562-b2be-df1c90c7a14b",
+    "type": "report",
+    "title": "F.A.S.S. Monthly Fundraising and Cash Summary",
+    "description": "This dashboard monitors monthly fundraising and cash activity solicited by the Frontiers of Computing, The Arts, Shoah Foundation, and Sustainability (F.A.S.S.) teams, offering insights to support strategic planning, performance tracking, and targeted fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3365",
+    "category": "Sarah Trudell-McCoy's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Campaign Performance",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "37b52707-e442-4b1c-b590-907bdc02bc8b",
+    "type": "report",
+    "title": "Classical California Cash Pyramid",
+    "description": "This dashboard tracks cash activity for KUSC and KDFC, comparing it against the giving pyramid. It provides insights into contributions across different giving levels, helping to identify trends, gaps, and opportunities for targeted engagement to strengthen fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3396",
+    "category": "Classical California",
+    "platform": "Tableau",
+    "tags": [
+      "USC Radios",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Gift Impact Reporting",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "f195a273-12b5-49cb-a331-f9e9e99fede6",
+    "type": "report",
+    "title": "F.A.S.S. Fundraising and Cash",
+    "description": "This dashboard tracks fundraising and cash activity solicited by the Frontiers of Computing, The Arts, Shoah Foundation, and Sustainability (F.A.S.S.) teams. It features key performance metrics, including year-to-date progress against goals, giving pyramid progress, and progress toward strategic priorities, providing actionable insights to support fundraising strategies and decision-making.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3403",
+    "category": "Sarah Trudell-McCoy's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "78c98697-0fbc-40ef-ad96-9f326435338a",
+    "type": "report",
+    "title": "F.A.S.S. Activity Summary",
+    "description": "This dashboard tracks proposals solicited by the following teams: Frontiers of Computing, The Arts, Shoah Foundation, and Sustainability (F.A.S.S). It includes a comprehensive overview of PRM assignments and their geographic distribution, providing insights to support strategic planning and targeted fundraising efforts",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3416",
+    "category": "Sarah Trudell-McCoy's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "3e82ec5d-0855-4161-9701-ec91a52d6b83",
+    "type": "report",
+    "title": "Work Plan Metrics Progress",
+    "description": "This dashboard tracks a development officer's fundraising activity against their Work Plan goals, providing insights into performance, progress toward targets, and areas for improvement, supporting effective goal alignment and strategic decision-making.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3418",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Portfolio & Assignments Management",
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "93032a06-de20-4d89-8a40-ec60607fa1f9",
+    "type": "report",
+    "title": "Cash by Appeal Channel",
+    "description": "This dashboard tracks Marshall and Leventhal cash activity by appeal channel, providing insights into channel performance. It includes cash totals from the last four fiscal years, enabling trend analysis and data-driven strategy development for future fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3449",
+    "category": "Marshall",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Marshall",
+      "Marketing & Communications",
+      "Stewardship & Impact Reporting",
+      "Annual Giving",
+      "Advancement Leadership",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "8c9f4175-9297-48d4-ab34-1e418f7d739a",
+    "type": "report",
+    "title": "FY26 Goals & Progress ",
+    "description": "This dashboard tracks the university's fundraising performance against the current fiscal year's goals, providing insights into progress and key performance metrics to inform strategic decisions and ensure alignment with fundraising objectives.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3454",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Prospect Development & Research",
+      "Executive Summary",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "3abd81fd-fcd0-45b4-b1fc-f6162bef41b4",
+    "type": "report",
+    "title": "Keck Work Plan Metrics Progress",
+    "description": "This dashboard tracks the fundraising activity of Keck development officers against their Work Plan goals for the current fiscal year. It provides insights into individual and team performance, highlighting progress toward targets and identifying opportunities for strategic fundraising improvements.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3459",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "d60c7e69-caf6-46c7-b680-baee29abbaac",
+    "type": "report",
+    "title": "Alumni Reunion Giving Activity",
+    "description": "This dashboard tracks fundraising and cash activity throughout the reunion cycle, comparing performance against previous years' cycles. It enables the team to identify trends and develop data-driven strategies for future reunion events.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3461",
+    "category": "Alumni Reunion Giving",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Engagement",
+      "Prospect Development & Research",
+      "Stewardship & Impact Reporting",
+      "Alumni Relations",
+      "Campaign Performance",
+      "Data Management & Integrity",
+      "Events & Reunions",
+      "Portfolio & Assignments Management",
+      "Prospect Identification",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "e35a8e13-9062-4d55-ac43-0559fc99ac35",
+    "type": "report",
+    "title": "FY24 Advancement Activity Snapshot",
+    "description": "This dashboard tracks fundraising and cash activity for the current fiscal year, providing insights into progress against school/unit goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3465",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Campaign Performance",
+      "Executive Summary",
+      "Planned Giving",
+      "Pledges & Commitments",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "aa6b3a12-53d6-4e44-8e20-c9441ba7ef8b",
+    "type": "report",
+    "title": "FY24 Monthly Fundraising and Cash Summary",
+    "description": "This dashboard provides a high-level overview of fundraising and cash totals, along with year-to-date (YTD) activity broken down by month. It includes the ability to filter and view data by school or unit, offering insights to support strategic planning and performance tracking across different areas.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3466",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Campaign Performance",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "9aa229c7-e24b-456a-a9cf-e6c96b7339e7",
+    "type": "report",
+    "title": "FY24 Health Principal and Transformational Gifts",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3467",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Prospect Identification",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "cb9550d6-445a-4411-baef-3ba1729c1f91",
+    "type": "report",
+    "title": "FY24 Health Campaign Fundraising and Cash",
+    "description": "This dashboard tracks fundraising and cash activity for the Health Campaign during the current fiscal year, providing insights into progress toward campaign goals and supporting data-driven fundraising strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3468",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Campaign Performance",
+      "Executive Summary",
+      "Pledges & Commitments",
+      "Principal/Transformational Gifts",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "71283bfd-29b5-4357-b2f7-2861a13829e3",
+    "type": "report",
+    "title": "FY24 University Fundraising and Cash",
+    "description": "This dashboard provides a high-level overview of a school or unit's fundraising and cash progress, segmenting dollars by source, priority, and purpose. It also includes a 5-year lookback, offering valuable insights into long-term trends, performance, and areas for strategic focus in future fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3489",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Campaign Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "218e7c3e-e2cc-4f32-be84-a4373fa7f087",
+    "type": "report",
+    "title": "Associates Members Analysis",
+    "description": "This dashboard tracks new and existing Associates members, offering a detailed breakdown by primary constituent type and top geographic regions for deeper insights into membership composition and distribution.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3491",
+    "category": "Associates",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Engagement",
+      "Giving Societies",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "7ddd8ece-6b19-402f-93af-85b077dd82bf",
+    "type": "report",
+    "title": "FY24 University Fundraising and Cash FY11-Present Snapshot",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3492",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "a7ae3a66-2c58-4500-a93a-ef7c1c65c7fc",
+    "type": "report",
+    "title": "FY24 Principal and Transformational Gifts",
+    "description": "This dashboard provides a high-level overview of principal and transformational gifts, tracking key contributions and providing insights into donor engagement, funding trends, and progress toward major fundraising goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3493",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Donor Interests & Affinities",
+      "Principal/Transformational Gifts",
+      "Prospect Identification",
+      "Prospect Pipeline",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "aa29cb6d-9818-4953-a8a2-02f36beac350",
+    "type": "report",
+    "title": "FY24 University Fundraising and Cash Pyramid",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3494",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Campaign Performance",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "578bc5fb-4a56-4c4c-b469-fcbd763ffc86",
+    "type": "report",
+    "title": "FY24 Athletics Campaign Fundraising and Cash",
+    "description": "This dashboard tracks fundraising and cash activity for the Athletics Campaign in the current fiscal year, providing  insights into progress toward campaign goals. It includes detailed breakdowns by donor segment and gift type, along with trend analysis and year-over-year comparisons to support strategic planning and donor engagement efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3495",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Athletics",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Executive Summary",
+      "Pledges & Commitments",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "c9af92d0-17b7-436e-836f-0f5514572e36",
+    "type": "report",
+    "title": "FY24 Monthly Fundraising and Cash Pyramid",
+    "description": "This dashboard tracks monthly fundraising and cash activity against the gift pyramid, providing insights into progress across giving levels, identifying gaps in the fundraising pipeline, and supporting strategic efforts to achieve campaign goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3496",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Prospect Identification",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "15980e53-a562-40ae-bbea-c161a07eb1be",
+    "type": "report",
+    "title": "Schaeffer Institute Fundraising and Cash",
+    "description": "This dashboard tracks fundraising and cash activity for the Scheffer Institute, providing insights into donor contributions, progress toward financial goals, and overall performance to support strategic planning and fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3499",
+    "category": "Schaeffer Institute",
+    "platform": "Tableau",
+    "tags": [
+      "Shaeffer Institute",
+      "Financial Reporting",
+      "Executive Summary",
+      "Historical Reporting",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "9949e2bb-2a99-498b-82cb-79ff49e51e23",
+    "type": "report",
+    "title": "Health Campaign Event List Custom Builder",
+    "description": "This dashboard enables users to customize and generate event lists based on selected criteria, providing a flexible tool for targeted event planning, management, and analysis.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3512",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Advancement Services & Operations",
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Donor Recognition",
+      "Portfolio & Assignments Management",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "54883f88-5afe-49d5-a1ec-7552e2341040",
+    "type": "report",
+    "title": "University Fundraising and Cash - With Frozen Past FYs",
+    "description": "This dashboard provides a historical, frozen view of past fundraising and cash activity, where the numbers remain static and do not include any adjustments made after the initial reporting. It offers an accurate snapshot of previous performance for comparison and analysis purposes.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3518",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "e57c91fd-3997-475f-962c-74a7e8e92cf5",
+    "type": "report",
+    "title": "Health Principal and Transformational Gifts",
+    "description": "This dashboard tracks principal and transformational gifts directed toward health-related schools, providing insights into donor contributions, funding trends, and progress toward strategic fundraising goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3519",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Gift Processing",
+      "Major Gifts",
+      "Portfolio & Assignments Management",
+      "Principal/Transformational Gifts",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "35f61908-926c-4716-aeb0-88c2a0de0908",
+    "type": "report",
+    "title": "Contact Information Matrix",
+    "description": "This dashboard monitors and tracks progress toward increasing the availability of contact information, comparing current data against established goals. It offers a quick, high-level overview of the current status, highlighting areas that require further attention to improve data completeness and outreach effectiveness.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3536",
+    "category": "Annual Giving",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Data Analyst / Data Super User",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "22b5136d-360c-4b9e-80d2-eed5ceb4af5b",
+    "type": "report",
+    "title": "Annual Giving Stats",
+    "description": "This dashboard provides a comprehensive view of fundraising and donor conversion statistics across the university over the years, establishing performance benchmarks. It offers insights into performance across constituent types and appeal sources, donor conversion activity, and service indicator trends. By tracking historical averages and year-over-year changes, it enables data-driven decision-making to optimize engagement strategies and address potential issues.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3547",
+    "category": "Annual Giving",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Annual Giving",
+      "Campaign Performance",
+      "Data Management & Integrity",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "b5e21798-e1b4-4043-b328-c396c40fb044",
+    "type": "report",
+    "title": "Metrics by Region",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3552",
+    "category": "Central Development",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Engagement",
+      "Financial Reporting",
+      "Executive Summary",
+      "Regional Engagement",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "ffb2a84c-a05b-49d5-b425-f373cca8291b",
+    "type": "report",
+    "title": "Joel Smith's Team - Weekly Portfolio Review",
+    "description": "Created for Joel's Team - Internal Use Only.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3557",
+    "category": "Joel Smith's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Financial Reporting",
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "2ee1a066-6788-42bf-93f0-5a0ad382fc9c",
+    "type": "report",
+    "title": "Audit: Records with a Unassigned/Former Stage of Readiness",
+    "description": "This dashboard serves as an audit tool to identify constituent records using a former Stage of Readiness, ensuring data accuracy and supporting effective prospect management and engagement strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3573",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Portfolio & Assignments Management",
+      "Prospect Pipeline",
+      "Advancement Admin. / Operations Staff",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "4e975b45-40ee-406e-aa7b-e26ccd179144",
+    "type": "report",
+    "title": "University Fundraising and Cash Pyramid | 12.1.23-12.1.24",
+    "description": "This dashboard provides a historical, frozen view of past fundraising and cash activity from 12/1/23 to 12/1/24. The numbers remain static and do not include any adjustments made after the initial reporting period, offering an accurate snapshot of performance for that specific timeframe.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3582",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "207f5e05-14f5-4c88-b5d1-a280306d993d",
+    "type": "report",
+    "title": "Prospect Pipeline",
+    "description": "This dashboard provides a detailed view of high-capacity unassigned prospects within the development pipeline, specifically those rated at $250K or above. It offers insight into newly rated potential donors who are not yet managed by a fundraising officer, including their rating date and qualitative comments that describe the rationale behind their rating. This centralized view helps prioritize assignment decisions and supports strategic portfolio development by surfacing top prospects ready for engagement.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3587",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Prospect Development & Research",
+      "Prospect Pipeline",
+      "Wealth Screening & Capacity Ratings",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "489ea219-5ad6-4460-b593-5dc878fc1357",
+    "type": "report",
+    "title": "Contact Information Enrichment Metrics",
+    "description": "This dashboard monitors and tracks the efforts to increase availability of contact information against goals. It provides a quick overview of the status quo.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3588",
+    "category": "Data Management",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "2067ad72-204d-4cff-b29b-ea8527858f3c",
+    "type": "report",
+    "title": "Keck Calendar Year-End Summary Report ",
+    "description": "This dashboard provides a calendar year-end summary for Keck Development, highlighting proposal activity by each development officer. It offers insight into individual fundraiser performance over the past five years—including information about proposal activity, total dollars raised and credit types  This performance summary enables leadership to assess trends, recognize top contributors, and identify areas for strategic improvement across the team.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3593",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Prospect Development & Research",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "8a2709b4-a625-435e-b7d0-cad777fd1483",
+    "type": "report",
+    "title": "Transformational Gift Prospects",
+    "description": "This workbook provides a detailed snapshot of all prospects rated at $1M or more across the university, with a focus on assignment status and recent engagement activity. It offers insight into high-capacity donors by displaying key information such as their PRM and SRM assignments, strategy status, proposal activity, and most recent outreach. This centralized view supports effective portfolio management by helping fundraisers track progress, identify gaps in follow-up, and prioritize next steps for cultivating top-rated prospects.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3599",
+    "category": "Executive Suite",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Prospect Identification",
+      "Wealth Screening & Capacity Ratings",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "5882e2be-ace2-4cfe-888c-14df06fb251d",
+    "type": "report",
+    "title": "Sessions Posted Today ",
+    "description": "This dashboard provides a centralized view of daily gifts posted across all schools and units, tracking fundraising activity and financial contributions. It offers insights into daily cash received, secured fundraising, and key transaction details enhancing transparency and efficiency by providing real-time tracking of daily fundraising and maintaining accurate financial records.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3601",
+    "category": "Gift Services",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "c30a13fb-415a-4071-83ea-af3dd59b3902",
+    "type": "report",
+    "title": "Fundraising and Cash Metrics Analysis",
+    "description": "This dashboard provides a comprehensive financial overview of fundraising and cash contributions, consolidating data from all units. It offers insight into performance against historical averages. It displays the grand total (USC + partners) while breaking down USC’s total across multiple dimensions. Separate dashboards are available for cash and fundraising, including versions tagged for health-related contributions.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3611",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "d9425943-5460-44a9-a6f1-23aa73a36beb",
+    "type": "report",
+    "title": "SDR Task Tracker",
+    "description": "The Stewardship and Donor Relations (SDR) Task Tracker dashboard is a robust tool designed to streamline and enhance stewardship task management and track individual stewardship plans for Transformational gift donors and prospects. \n\nTo ensure a smooth user experience, start on the (Homepage) SDR Task Overview.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3618",
+    "category": "Stewardship and Donor Relations",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Advancement Services & Operations",
+      "Stewardship & Impact Reporting",
+      "Donor Recognition",
+      "Milestone Tracking",
+      "Advancement Admin. / Operations Staff",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "4e10242e-f930-4dcb-a5ba-8405934f3a26",
+    "type": "report",
+    "title": "KSOM Alumni Giving",
+    "description": "This workbook provides a university-wide summary of fundraising performance over the years, tracking total dollars raised and number of donors across multiple segments. It offers insight into giving trends by gift amount range, donor type, and contributing schools or units. By capturing performance across key donor categories and gift tiers—including those over and under $1M—this dashboard helps leadership assess overall fundraising health, highlight areas of strength, and identify where additional cultivation may be needed.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3623",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Engagement",
+      "Stewardship & Impact Reporting",
+      "Alumni Relations",
+      "Annual Giving",
+      "Campaign Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "cb1dedc5-e13d-46ef-b8ea-5297a43bdd68",
+    "type": "report",
+    "title": "Athletics Fundraising and Cash Pyramid",
+    "description": "This dashboard provides a detailed overview of donor contributions to the Athletics unit, categorized by giving categories and constituent type, spanning multiple years. It offers insight into donation trends that allows for a clearer understanding of fundraising patterns and financial support within Athletics.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3630",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "4598932e-de52-4255-b2cf-1aa368aaf8d6",
+    "type": "report",
+    "title": "Audit: Proposals Requiring Clean-Up",
+    "description": "This dashboard audits and identifies all open proposals, providing insights into their status, associated prospects, and key details to support effective pipeline management and strategic fundraising decisions",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3638",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Advancement Admin. / Operations Staff",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "87c627ce-aa1e-44a9-87d3-f1b7b290f0b7",
+    "type": "report",
+    "title": "The Arts Fundraising and Cash Pyramid",
+    "description": "This workbook provides a five-year fundraising summary for the arts, displaying progress in both dollars raised and donor counts across various giving segments. It offers insight into fundraising trends by gift amount range, donor type, and contributing schools or units. By breaking down giving performance across key donor categories and contribution sizes—including gifts over and under $1M—this dashboard supports strategic planning by helping identify where fundraising momentum is strongest and where further engagement may be needed.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3659",
+    "category": "Sarah Trudell-McCoy's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "Roski",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "a8b25b87-3676-414d-8296-186da23784f7",
+    "type": "report",
+    "title": "Trustee Fundraising and Cash Pyramid",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3660",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "fd83a74a-9961-4352-bc42-94d9d41211a9",
+    "type": "report",
+    "title": "Prospect Development Platform",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3663",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Advancement Admin. / Operations Staff",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "cc8ac635-f86d-4f40-9c75-6d9491540f09",
+    "type": "report",
+    "title": "Sports & Trojan Victory Funds",
+    "description": "This workbook provides a multi-year fundraising and donor engagement overview for the Sport and Trojan Victory Funds. It offers insight into donor retention patterns, geographic distribution, and the relationship between student involvement and giving. By highlighting which donor segments are most responsive—such as high-capacity prospects, first-time donors, or those with student experience—this workbook helps advancement teams tailor outreach strategies, strengthen retention efforts, and identify where to focus cultivation to grow support for athletics-related initiatives.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3668",
+    "category": "Athletics",
+    "platform": "Tableau",
+    "tags": [
+      "Athletics",
+      "Financial Reporting",
+      "Annual Giving",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "cfe2b687-9d77-43a4-a81b-fa7fb04a041a",
+    "type": "report",
+    "title": "Health Campaign Team: Proposal Details for C-100 Prospects",
+    "description": "This dashboard provides a detailed view of proposal activity related to C-100 proposals for the Health Campaign. It offers insight into individual proposals through filters and enables easy export of data to Excel for use in a linked macro-enabled workflow—streamlining the process of generating proposal lists and reducing manual effort for submissions and reporting",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3674",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "9e2f0adf-5294-474e-b27b-1567a9d980a5",
+    "type": "report",
+    "title": "Cinematic Arts Annual Giving",
+    "description": "This dashboard tracks the annual giving activity performance for the Cinematic Arts School. Key performance metrics include appeal channel effectiveness, donor retention rates, and year-over-year giving totals, providing insights to inform strategic fundraising decisions and optimize donor engagement efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3679",
+    "category": "Cinematic Arts",
+    "platform": "Tableau",
+    "tags": [
+      "Cinematic Arts",
+      "Financial Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "c3342286-2593-4f19-8514-4749f148966e",
+    "type": "report",
+    "title": "Upcoming Milestones Tracker",
+    "description": "This workbook provides a month-by-month visual summary of upcoming donor milestones across the university for the calendar year. It offers insight into the volume and timing of key stewardship moments—such as first gift anniversaries, $1M+ gift anniversaries, and donor birthdays—using a heat map to highlight months with the highest concentrations. This allows frontline fundraisers and engagement teams to plan timely, personalized outreach that strengthens donor relationships and enhances long-term engagement.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3681",
+    "category": "Stewardship and Donor Relations",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Stewardship & Impact Reporting",
+      "Donor Recognition",
+      "Milestone Tracking",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "1f2f0d67-5325-4636-8b3d-95ba21013434",
+    "type": "report",
+    "title": "Audit: Proposal & Stage of Readiness Alignment",
+    "description": "This workbook provides a stage alignment summary for assigned fundraising prospects across the university, based on their most recent proposal activity within the last 18 months. It offers insight into whether a prospect's current Stage of Readiness is appropriately aligned with their proposal history—highlighting where updates may be needed to reflect more accurate pipeline positioning. By surfacing records with outdated or missing stages, this dashboard helps fundraisers maintain accurate portfolios, improve pipeline forecasting, and support timely prospect movement through the fundraising cycle.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3686",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Advancement Admin. / Operations Staff",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "f529ea44-a789-4e23-9cd2-d90ea4ad53e1",
+    "type": "report",
+    "title": "Joel Smith's Team - Individual Weekly Portfolio Review",
+    "description": "Created for Joel's Team - Internal Use Only.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3711",
+    "category": "Joel Smith's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Advancement Admin. / Operations Staff",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "9b13e229-163b-4f0b-8523-fde2784ccb61",
+    "type": "report",
+    "title": "FY24 School/Unit Fundraising Summary",
+    "description": "This dashboard provides a high-level overview of a school or unit's fundraising and cash summary, tracking performance against set goals. It offers insights into progress, helping to identify areas of success and opportunities for improvement to ensure alignment with overall fundraising objectives",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3488",
+    "category": "FY24 Executive Suite Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Campaign Performance",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "a7410de3-d794-439a-81d0-6ba8e1263214",
+    "type": "report",
+    "title": "Event Bio Platform",
+    "description": "The Event Bio Platform serves as a centralized tool for the Prospect Research team to identify and prioritize prospects who may require updated event bios. This dashboard streamlines the review process by highlighting key indicators such as outdated bios, recent engagement, or upcoming events. By providing timely insights, the platform ensures that prospect profiles are current, supporting more personalized and impactful donor engagement",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3695",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Data Management & Integrity",
+      "Donor Interests & Affinities",
+      "Prospect Identification",
+      "Advancement Admin. / Operations Staff",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "3229f3e9-cb38-4631-a83a-6801f2b3dae2",
+    "type": "report",
+    "title": "Audit: Health Top 100 Prospects - New Activity",
+    "description": "This dashboard provides a filtered view of the top 100 fundraising prospects in Health, focusing on recent activity and engagement status. It offers insight into which high-priority individuals have had new interactions—such as gifts, proposals, credit, or strategy updates. Filters such as list type, assignment status, activity type, and PRM enable users to quickly surface prospects requiring attention. By flagging recent activity and readiness, this tool supports proactive portfolio management, helps ensure timely follow-up, and strengthens accountability in prospect engagement efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3721",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "dd0f19d3-6b30-4749-8ad8-d96e462ea507",
+    "type": "report",
+    "title": "Ratings and Assignments Tracker: Capacity Rating",
+    "description": "This dashboard monitors constituents based on their capacity rating, tracking assignment status and the recency of rating updates. It provides insights to support effective prospect management and ensure high-capacity donors are strategically prioritized.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3710",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Prospect Development & Research",
+      "Portfolio & Assignments Management",
+      "Prospect Identification",
+      "Prospect Pipeline",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Leadership",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "f711adc8-c7e9-440f-aa4e-ad651bf9b60e",
+    "type": "report",
+    "title": "Alumni Association Dashboard",
+    "description": "This dashboard offers a comprehensive overview of all living USC alumni, segmented by age and geographic region, providing insights into demographic distribution and regional engagement opportunities.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/246",
+    "category": "Alumni Association",
+    "platform": "Tableau",
+    "tags": [
+      "USC Alumni Association",
+      "Engagement",
+      "Alumni Relations",
+      "Regional Engagement",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "7bbe8711-d068-4efc-ad8b-f2d067cb62bf",
+    "type": "report",
+    "title": "CFR Financial Summary",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3740",
+    "category": "CFR",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Financial Reporting",
+      "Annual Giving",
+      "Campaign Performance",
+      "Executive Summary",
+      "Principal/Transformational Gifts",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "33d759e3-6898-4da7-85e1-b841e01d70f9",
+    "type": "report",
+    "title": "CFR Proposal Activity",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3742",
+    "category": "CFR",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Prospect Development & Research",
+      "Executive Summary",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "68b047ba-3cc5-4876-8bdd-ede892bf66f5",
+    "type": "report",
+    "title": "Overdue Pledges by Pledge Designation",
+    "description": "This dashboard tracks all overdue pledges and their outstanding totals by designation, providing insights into pledge fulfillment status and helping prioritize follow-up actions to ensure timely resolution.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/523",
+    "category": "Stewardship and Donor Relations - Internal",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Gift Processing",
+      "Historical Reporting",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "cf6a44cf-c05d-4e7e-bc57-6d5e7aad88b3",
+    "type": "report",
+    "title": "Overall Campaign Reports Final (7/1/2010 - 12/31/2018)",
+    "description": "This dashboard provides a comprehensive report of historical activity from the last campaign period (7/1/2010 - 12/31/2018), offering insights into fundraising performance, donor engagement, and key trends to inform future campaign strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/726",
+    "category": "Frozen Campaign Reports (7/1/2010 - 12/31/2018)",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Campaign Performance",
+      "Major Gifts",
+      "Planned Giving",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "99d74ca5-2455-4620-a818-1218cbb02297",
+    "type": "report",
+    "title": "Keck Giving Reports",
+    "description": "This dashboard tracks fundraising and cash activity for the Keck Medicine system, providing insights into progress toward financial goals, donor contributions, and fundraising trends to support strategic planning and decision-making.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/468",
+    "category": "Keck Medicine",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "2b8bedb0-d8c9-4177-875a-1c2735084cb1",
+    "type": "report",
+    "title": "University Grants",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3777",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "7e4e648f-7365-4df5-bdf0-4098ca8e16b2",
+    "type": "report",
+    "title": "Shoah MG Prospect Finder (Unassigned Donors)",
+    "description": "The Shoah MG Prospect Finder (Unassigned Donors) dashboard identifies unassigned Shoah donors with the potential to be upgraded to a major gift level. This tool provides insights into donor capacity, engagement history, and contact information availability to support prospect assignment and upgrade strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3780",
+    "category": "Shoah Foundation",
+    "platform": "Tableau",
+    "tags": [
+      "Shoah Foundation",
+      "Prospect Development & Research",
+      "Prospect Identification",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d84ef6cd-c2b7-4c0f-a973-996842319039",
+    "type": "report",
+    "title": "Student Affairs Cash and Fundraising Report",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3783",
+    "category": "Lisa Yeh's Reports",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "b3473ec0-883f-4e9e-9a85-da97dffa0d8d",
+    "type": "report",
+    "title": "Law Firm Challenge",
+    "description": "This dashboard provides insight into cash contributions made by Gould alumni who are employed at law firms.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3795",
+    "category": "Gould School of Law",
+    "platform": "Tableau",
+    "tags": [
+      "Marshall",
+      "Engagement",
+      "Financial Reporting",
+      "Stewardship & Impact Reporting",
+      "Affinity Groups",
+      "Alumni Relations",
+      "Donor Recognition",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "96e7749a-083d-4fb8-b2e8-93212ae21c12",
+    "type": "report",
+    "title": "DevRes Ratings Confirmation Queue - Health",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3797",
+    "category": "Prospect Development - Health Sciences",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "4301623f-d598-45dd-83de-88d360e6369f",
+    "type": "report",
+    "title": "Metrics by Region - International",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3818",
+    "category": "Central Development",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Engagement",
+      "Financial Reporting",
+      "Executive Summary",
+      "Regional Engagement",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "1d961dc8-2ee0-4f18-8b33-2097b9ede8dc",
+    "type": "report",
+    "title": "$1M+ PRM Assignments and Contacts",
+    "description": "This dashboard provides a high-level overview of contact activity for assigned prospects, with filtering options by development officer to enable focused portfolio reviews and performance analysis.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3826",
+    "category": "Prospect Management",
+    "platform": "Tableau",
+    "tags": [
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d9b4fb69-2ebd-4c7f-9701-63a0c52b6707",
+    "type": "report",
+    "title": "DevRes Ratings Confirmation Queue_jds",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3832",
+    "category": "Prospect Development - Special Projects",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Prospect Development & Research",
+      "Prospect Identification",
+      "Prospect Pipeline",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Tableau",
+      "No"
+    ]
+  },
+  {
+    "docId": "bd6cef35-446c-4e81-8846-2c092d8f8785",
+    "type": "report",
+    "title": "DevRes Ratings Confirmation Queue",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3833",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Prospect Development & Research",
+      "Prospect Identification",
+      "Wealth Screening & Capacity Ratings",
+      "Advancement Admin. / Operations Staff",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "354573a3-9a16-47f3-ad77-8aeccd88a358",
+    "type": "report",
+    "title": "Donor Conversion",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3866",
+    "category": "Annual Giving",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "c92f51df-6512-4e83-b95a-e94e4a909b06",
+    "type": "report",
+    "title": "Development Research Output",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3821",
+    "category": "Prospect Development",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "78206bbd-b18a-4341-b49e-2ea157542b6b",
+    "type": "report",
+    "title": "Keck Advancement Cash by KSOM Criteria",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3868",
+    "category": "Keck Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "0ebd985a-0d38-4877-bcfd-efc2f42a4b9b",
+    "type": "report",
+    "title": "FY25E Advancement Activity Snapshot",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3876",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": []
+  },
+  {
+    "docId": "d74f1d9b-9203-43e1-974a-a1c89758934e",
+    "type": "report",
+    "title": "FY25E Athletics Campaign Fundraising and Cash",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3877",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": []
+  },
+  {
+    "docId": "2b2cf235-6b3d-4ac8-a513-9b451dab3f74",
+    "type": "report",
+    "title": "FY25E Goals & Progress ",
+    "description": "This dashboard tracks the university's fundraising performance against the current fiscal year's goals, providing insights into progress and key performance metrics to inform strategic decisions and ensure alignment with fundraising objectives.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3878",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "b969170b-3a56-4492-a50b-5c48d255306c",
+    "type": "report",
+    "title": "FY25E Monthly Fundraising and Cash Pyramid",
+    "description": "This dashboard tracks monthly fundraising and cash activity against the gift pyramid, providing insights into progress across giving levels, identifying gaps in the fundraising pipeline, and supporting strategic efforts to achieve campaign goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3879",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "1437f79d-ce20-4032-bb51-01a994c942c4",
+    "type": "report",
+    "title": "FY25E Monthly Fundraising and Cash Summary",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3880",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": []
+  },
+  {
+    "docId": "5e22d3ce-c660-4742-b400-a1b2e0e266c5",
+    "type": "report",
+    "title": "FY25E University Fundraising and Cash FY11-Present Snapshot",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3881",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": []
+  },
+  {
+    "docId": "e4790d4d-0cd9-4b8e-a69c-ca5c4e91beee",
+    "type": "report",
+    "title": "FY25E University Fundraising and Cash",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3882",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": []
+  },
+  {
+    "docId": "8b102b5d-d02b-4574-9056-07e4d308376d",
+    "type": "report",
+    "title": "FY25E School_Unit Fundraising Summary",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3883",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": []
+  },
+  {
+    "docId": "4bc73f6f-1d06-4143-b680-f0cee9d09ca7",
+    "type": "report",
+    "title": "FY25E University Fundraising and Cash Pyramid",
+    "description": "This dashboard reports fundraising and cash activity from the last five fiscal years, segmenting dollar amounts by giving level. It allows for easy analysis of giving trends over time, offering insights into donor behavior and helping to guide strategic fundraising decisions.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3884",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "3c88eb75-d9ca-40b8-8645-3872fbbcf39f",
+    "type": "report",
+    "title": "FY25E Principal and Transformational Gifts",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3885",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": []
+  },
+  {
+    "docId": "a22864c2-f704-47aa-8454-e5ebb46ede48",
+    "type": "report",
+    "title": "FY25E Health Principal and Transformational Gifts",
+    "description": "This dashboard tracks principal and transformational gifts directed toward health-related schools, providing insights into donor contributions, funding trends, and progress toward strategic fundraising goals.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3886",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "d9bec597-feeb-45b4-9105-2b16a9cb8540",
+    "type": "report",
+    "title": "FY25E Health Campaign Fundraising and Cash",
+    "description": "This dashboard tracks fundraising and cash activity for the Health Campaign during the current fiscal year, providing insights into progress toward campaign goals and supporting data-driven fundraising strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3887",
+    "category": "FY25E Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "a23ed548-21a1-4a36-b661-40aeb09f3e74",
+    "type": "report",
+    "title": "Fundraising and Cash by Involvement",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3894",
+    "category": "Annual Giving",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Alumni Relations",
+      "Annual Giving",
+      "Donor Recognition",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "057f0ad8-9d97-4905-84f8-aa1bd8f6a51a",
+    "type": "report",
+    "title": "Lisa Yeh's Team - Workplan Yr/Yr Comparison",
+    "description": "This dashboard tracks the fundraising activity of development officers from the Central Development team, measuring progress against their Work Plan goals. It provides insights into individual and team performance, supporting strategic planning and goal alignment.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3900",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Major Gifts",
+      "Portfolio & Assignments Management",
+      "Principal/Transformational Gifts",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d16e29ba-c09c-41f9-9d95-91f430390abf",
+    "type": "report",
+    "title": "Student Affairs Cash and Fundraising Report",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3903",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "3aa10b20-a8ab-4d5e-91c9-0f402a508fa3",
+    "type": "report",
+    "title": "Health Campaign Pyramid by Gift Type",
+    "description": "This dashboard offers a comprehensive overview of fundraising and cash goals for the Health Campaign, tracking progress against the gift pyramid.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3904",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Historical Reporting",
+      "Pledges & Commitments",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "7e8568bf-d4be-439c-9dd8-da75a0fc0092",
+    "type": "report",
+    "title": "Gift Planning Fundraising Overview",
+    "description": "This dashboard tracks fundraising activity solicited by the Gift Planning team, providing insights into progress toward goals, donor engagement trends, and the overall impact of planned giving strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3905",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Advancement Services & Operations",
+      "Financial Reporting",
+      "Prospect Development & Research",
+      "Annual Giving",
+      "Executive Summary",
+      "Major Gifts",
+      "Planned Giving",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "5bed1ae5-a8cb-423a-8a78-5bafb49d86d3",
+    "type": "report",
+    "title": "F.A.S.S. Activity Summary",
+    "description": "This dashboard tracks proposals solicited by the following teams: Frontiers of Computing, The Arts, Shoah Foundation, and Sustainability (F.A.S.S). It includes a comprehensive overview of PRM assignments and their geographic distribution, providing insights to support strategic planning and targeted fundraising efforts",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3907",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "61d9e32e-6356-4cfe-ab0a-b05982aa9441",
+    "type": "report",
+    "title": "F.A.S.S. Team - Workplan Yr/Yr Comparison",
+    "description": "This dashboard tracks the fundraising activity of development officers against their Work Plan goals, focusing exclusively on officers from the Frontiers of Computing, The Arts, Shoah Foundation, and Sustainability (F.A.S.S.) teams, offering insights to support performance evaluation.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3908",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Prospect Development & Research",
+      "Campaign Performance",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "cc939386-300e-4637-84c7-3652dc093363",
+    "type": "report",
+    "title": "Alumni Reunion Giving Activity",
+    "description": "This dashboard tracks fundraising and cash activity throughout the reunion cycle, comparing performance against previous years' cycles. It enables the team to identify trends and develop data-driven strategies for future reunion events.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3909",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "0359c661-56e8-400f-8982-f80ace7b2819",
+    "type": "report",
+    "title": "Scholarship Gifts",
+    "description": "This dashboard provides a comprehensive overview of scholarship gifts received, organized by date. It offers insights into donation trends, allowing for a detailed analysis of giving patterns and supporting strategic scholarship fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3910",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Advancement Services & Operations",
+      "Stewardship & Impact Reporting",
+      "Donor Recognition",
+      "Gift Impact Reporting",
+      "Gift Processing",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "070943eb-6611-40e8-ac97-acb31b49531e",
+    "type": "report",
+    "title": "Endowment Funds",
+    "description": "This dashboard monitors endowment reports for the Stewardship team, providing insights that enable efficient prioritization of stewardship tasks and ensuring timely donor engagement and reporting.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3911",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "All Schools/Unit",
+      "Stewardship & Impact Reporting",
+      "Endowment Reporting",
+      "Gift Impact Reporting",
+      "Advancement Admin. / Operations Staff",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "accd8edc-83ef-44fd-992e-41063c293c89",
+    "type": "report",
+    "title": "CFR Financial Summary",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3913",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Financial Reporting",
+      "Annual Giving",
+      "Campaign Performance",
+      "Executive Summary",
+      "Principal/Transformational Gifts",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "d14762cd-9fca-4b55-98d5-f1094d63db93",
+    "type": "report",
+    "title": "CFR Proposal Activity",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3914",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Prospect Development & Research",
+      "Executive Summary",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "942607e7-0eb3-464a-95fc-14356bbfc452",
+    "type": "report",
+    "title": "Cinematic Arts Annual Giving",
+    "description": "This dashboard tracks the annual giving activity performance for the Cinematic Arts School. Key performance metrics include appeal channel effectiveness, donor retention rates, and year-over-year giving totals, providing insights to inform strategic fundraising decisions and optimize donor engagement efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3915",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Cinematic Arts",
+      "Financial Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "4f17dbfa-850f-4b8f-b54a-b5d9f5efe944",
+    "type": "report",
+    "title": "Emeriti Center Fundraising Summary",
+    "description": "This dashboard tracks fundraising and cash activity for the Emeriti Center, providing a month-by-month progress summary to highlight trends, monitor performance, and support data-driven fundraising strategies.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3916",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Emeriti Center",
+      "Financial Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Historical Reporting",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "0159da53-c9d7-4a6a-9cf1-43015eea9969",
+    "type": "report",
+    "title": "Schaeffer Institute Fundraising and Cash",
+    "description": "This dashboard tracks fundraising and cash activity for the Scheffer Institute, providing insights into donor contributions, progress toward financial goals, and overall performance to support strategic planning and fundraising efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3917",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Shaeffer Institute",
+      "Financial Reporting",
+      "Executive Summary",
+      "Historical Reporting",
+      "University Goals & Performance",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "b857781b-5f25-4d9f-94de-f592e495e595",
+    "type": "report",
+    "title": "Schaeffer Institute Fundraising and Cash Pyramid",
+    "description": "This dashboard tracks fundraising and cash activity against the giving pyramid for the Schaeffer Institute, offering insights into donor contributions at various giving levels, helping to identify trends and opportunities to optimize fundraising efforts across all tiers.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3918",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Financial Reporting",
+      "Annual Giving",
+      "Executive Summary",
+      "Historical Reporting",
+      "Major Gifts",
+      "Principal/Transformational Gifts",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "a51b1c4d-5a92-4002-afd7-24d80860f608",
+    "type": "report",
+    "title": "Top 20 Donors & Gifts by Fiscal Year",
+    "description": "This dashboard identifies the top 20 donors and their gifts by fiscal year, providing insights into major contributions and helping to recognize key supporters while guiding strategic donor engagement and stewardship efforts.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3919",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "7a660de9-9712-4589-9f6d-901399bea9f0",
+    "type": "report",
+    "title": "Annual Giving Stats",
+    "description": "This dashboard provides a comprehensive view of fundraising and donor conversion statistics across the university over the years, establishing performance benchmarks. It offers insights into performance across constituent types and appeal sources, donor conversion activity, and service indicator trends. By tracking historical averages and year-over-year changes, it enables data-driven decision-making to optimize engagement strategies and address potential issues.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3921",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "ccc1519c-dc18-483b-9486-9c8191489746",
+    "type": "report",
+    "title": "Fundraising and Cash by Involvement",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3922",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Alumni Relations",
+      "Annual Giving",
+      "Donor Recognition",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
+    "docId": "1500b82d-41c6-4f50-9442-d09b5ce68658",
+    "type": "report",
+    "title": "Donor Conversion",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3923",
+    "category": "KL FY26 Updated Dashboards",
+    "platform": "Tableau",
+    "tags": [
+      "University Advancement",
+      "Financial Reporting",
+      "Campaign Performance",
+      "Pledges & Commitments",
+      "Advancement Admin. / Operations Staff",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Development Officers",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "d9ac030e-df79-41bd-8f3a-35f9c08921b6",
+    "type": "report",
+    "title": "University Grants2",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3929",
+    "category": "Confidential",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "107c6bf3-79c8-4927-abda-70524df107c4",
+    "type": "report",
+    "title": "University Grants",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3931",
+    "category": "Gift Services",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "584cf9b7-3ca9-44ea-b658-d86f66fff673",
+    "type": "report",
+    "title": "FY25 Keck Work Plan Metrics Progress",
+    "description": "This dashboard reports the fundraising activity of Keck development officers against their Work Plan goals for FY25.",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3935",
+    "category": "Archived Keck WP Reports",
+    "platform": "Tableau",
+    "tags": [
+      "Keck",
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "bdb80e56-e6f2-47b4-a356-a6d779557200",
+    "type": "report",
+    "title": "Health Campaign Proposal Pipeline",
+    "description": "",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3756",
+    "category": "Health Campaign",
+    "platform": "Tableau",
+    "tags": [
+      "Tableau"
+    ]
+  },
+  {
+    "docId": "0d7ca77e-be0a-4752-ba4a-9f4cfc7de753",
+    "type": "report",
+    "title": "FY26 $1M+ Proposal Progress",
+    "description": "This dashboard provides a detailed summary of activities from the previous fiscal year (FY24).",
+    "url": "http://eda-tabpri-prd1.ics.usc.edu/#/site/Advancement/workbooks/3958",
+    "category": "Executive Suite (With Drill Down)",
+    "platform": "Tableau",
+    "tags": [
+      "Central Advancement",
+      "Prospect Development & Research",
+      "Executive Summary",
+      "Advancement Leadership",
+      "Chief Development Officers",
+      "Data Analyst / Data Super User",
+      "Tableau",
+      "Yes"
+    ]
+  },
+  {
     "docId": "video-44",
     "type": "training_video",
     "title": "Collections in Tableau",
@@ -110,5 +3869,563 @@
     "title": "Generating Reports Using a Work Set in Cognos",
     "description": "In this instructional video, you will learn how to create a workset and generate Cognos reports with them. Topics Covered: Creating a Work Set Generating a Work Set in Salesforce Generating a Cognos Report Using a Workset",
     "category": "Cognos"
+  },
+  {
+    "docId": "glossary-103",
+    "type": "glossary",
+    "term": "Planned Proposals",
+    "definition": "A solicitation is planned, but a proposal has not been delivered to a prospect."
+  },
+  {
+    "docId": "glossary-104",
+    "type": "glossary",
+    "term": "Submitted Proposals",
+    "definition": "A solicitation has been made (i.e., a proposal has been delivered to a prospect), but a gift, pledge, or planned/legacy gift has not yet been recorded in Salesforce."
+  },
+  {
+    "docId": "glossary-105",
+    "type": "glossary",
+    "term": "Funded Proposals",
+    "definition": "A solicitation was made (i.e., a proposal was delivered to a prospect), and a gift or pledge has been booked in Salesforce, or a planned/legacy gift has been documented."
+  },
+  {
+    "docId": "glossary-106",
+    "type": "glossary",
+    "term": "Withdrawn Proposals",
+    "definition": "A solicitation was planned, but no proposal was delivered to a prospect."
+  },
+  {
+    "docId": "glossary-107",
+    "type": "glossary",
+    "term": "Declined Proposals",
+    "definition": "A solicitation was made, and a proposal was delivered to a prospect, but the prospect either refused to make a gift or was not responsive."
+  },
+  {
+    "docId": "glossary-108",
+    "type": "glossary",
+    "term": "Principal Proposals",
+    "definition": "Proposals with a planned, submitted, or funded amount of $1M+."
+  },
+  {
+    "docId": "glossary-109",
+    "type": "glossary",
+    "term": "Transformational Proposals",
+    "definition": "Proposals with a planned, submitted, or funded amount of $10M+. These proposals will also be represented in Principal Proposal counts unless otherwise noted."
+  },
+  {
+    "docId": "glossary-110",
+    "type": "glossary",
+    "term": "Proposal Amount",
+    "definition": "The value of the proposal associated with its corresponding stage (e.g., The Proposal Amount reported for a 'Planned' proposal corresponds to the Planned Ask Amount, while the Proposal Amount for a 'Submitted' proposal corresponds to the 'Submitted Amount'.)"
+  },
+  {
+    "docId": "glossary-111",
+    "type": "glossary",
+    "term": "Proposal Status",
+    "definition": "Represents the current stage of a proposal in the lifecycle of the corresponding solicitation."
+  },
+  {
+    "docId": "glossary-112",
+    "type": "glossary",
+    "term": "Advancement Role ",
+    "definition": "University Advancement staff role that best represents the fundraiser's overall job responsibilities. For more information on the role definition, refer to to the 'Matrix of Staff Roles for Portfolio Managers'."
+  },
+  {
+    "docId": "glossary-113",
+    "type": "glossary",
+    "term": "Win Rate",
+    "definition": "The percentage of solicitations that result in a funded proposal, calculated by dividing the number of successful solicitations (those that result in a funded proposal) by the total number of solicitations made (excluding 'Withdrawn' and 'Declined' proosals), then multiplying by 100 to express it as a percentage. This metric is used to measure the effectiveness of a fundraiser's solicitation strategy in converting prospective donors into actual contributors. "
+  },
+  {
+    "docId": "glossary-114",
+    "type": "glossary",
+    "term": "Primary Credit",
+    "definition": "The staff member(s) responsible for managing, leading, and coordinating a solicitation."
+  },
+  {
+    "docId": "glossary-115",
+    "type": "glossary",
+    "term": "Assist Credit",
+    "definition": "The staff member(s) participating in a solicitation by providing whatever support is needed from their respective school or unit or from the fundraisers managing the solicitation."
+  },
+  {
+    "docId": "glossary-116",
+    "type": "glossary",
+    "term": "Lost Proposals",
+    "definition": "Proposals that were submitted but were ultimately not successful (i.e., propsoals in the 'Withdrawn' and 'Declined' stages)."
+  },
+  {
+    "docId": "glossary-117",
+    "type": "glossary",
+    "term": "Won Proposals ",
+    "definition": "Proposals that are in the 'Funded' stage. "
+  },
+  {
+    "docId": "glossary-118",
+    "type": "glossary",
+    "term": "Open Proposals",
+    "definition": "Proposals that are currently active and in the 'Planned' or 'Submitted' stages."
+  },
+  {
+    "docId": "glossary-119",
+    "type": "glossary",
+    "term": "Proposal Expected Close Date",
+    "definition": "The date that a gift is expected to be booked. The date is required for 'Submitted' proposals."
+  },
+  {
+    "docId": "glossary-120",
+    "type": "glossary",
+    "term": "PRM Target Gift Range",
+    "definition": "Denotes the gift conversation a fundraiser intends to have with a prospect; this rating could be based on inclination or highest capacity and will vary from prospect-to-prospect."
+  },
+  {
+    "docId": "glossary-121",
+    "type": "glossary",
+    "term": "Capacity Rating Status",
+    "definition": "The Capacity Rating Status, which appears under the Capacity Rating on the Constituent/Organization Summary in Salesforce (i.e., on a record’s landing page) and in reports and dashboards, indicates both the source and level of confidence in the hierarchy-generated capacity rating."
+  },
+  {
+    "docId": "glossary-122",
+    "type": "glossary",
+    "term": "Capacity Rating Status: Confirmed by Research",
+    "definition": "When the Capacity Rating which appears under the Capacity Rating on the Constituent/Organization Summary in Salesforce (i.e., on a record’s landing page) and in reports and dashboards is based on a Development Research rating"
+  },
+  {
+    "docId": "glossary-123",
+    "type": "glossary",
+    "term": "Capacity Rating Status: Unconfirmed",
+    "definition": "When the Capacity Rating which appears under the Capacity Rating on the Constituent/Organization Summary in Salesforce (i.e., on a record’s landing page) and in reports and dashboards is based on a rating by a wealth screening vendor"
+  },
+  {
+    "docId": "glossary-124",
+    "type": "glossary",
+    "term": "Predictive Giving Score",
+    "definition": "A one-time predictive analysis of records in Salesforce. There are three score subtypes, which are static and have not been applied to new records since 2019  -  GLS (Gift Likelihood Score): Likelihood to make a gift of any amount; MGS (Major Gift Score): Likelihood to make a major gift; PGS (Planned Gift Score): Likelihood to make a planned gift"
+  },
+  {
+    "docId": "glossary-125",
+    "type": "glossary",
+    "term": "Fundraiser Tier/GG+A Affinity",
+    "definition": "When the Fundraiser rating type is selected (see above), this affinity rating (A through E) may be assigned by a fundraiser to assist in prioritizing their own portfolios."
+  },
+  {
+    "docId": "glossary-126",
+    "type": "glossary",
+    "term": "Stelter",
+    "definition": "Planned giving scores that measure loyalty and demonstrated capacity, assigned by this vendor. Possible Scores: A: Outstanding Loyalty - Outstanding Capacity, B: Outstanding Loyalty - Moderate Capacity, C: Moderate Loyalty - Outstanding Capacity, and D: Moderate Loyalty - Moderate Capacity"
+  },
+  {
+    "docId": "glossary-127",
+    "type": "glossary",
+    "term": "Transformational Gift Officer (TGO)",
+    "definition": "Fundraising staff who manage programs centrally or in the schools/units and/or whose portfolio is primarily composed of prospects whose gift potential is $10M+"
+  },
+  {
+    "docId": "glossary-128",
+    "type": "glossary",
+    "term": "Principal Gift Officer (PGO)",
+    "definition": "Fundraising staff who manage programs centrally or in the schools/units and/or whose portfolio is primarily composed of prospects whose gift potential is $1M+"
+  },
+  {
+    "docId": "glossary-129",
+    "type": "glossary",
+    "term": "Major Gifts Team Manager (MGT)",
+    "definition": "Fundraising staff who provide supervision to one or more major gift officers and whose portfolio is primarily composed of prospects whose gift potential is $250K+"
+  },
+  {
+    "docId": "glossary-130",
+    "type": "glossary",
+    "term": "Major Gift Officer (MGO)",
+    "definition": "Fundraising staff whose portfolio is primarily composed of prospects whose gift potential is $250K+, although under certain circumstances this threshold will be lower (e.g., $50K+)"
+  },
+  {
+    "docId": "glossary-131",
+    "type": "glossary",
+    "term": "Gift Planning Manager (GPM)",
+    "definition": "Fundraising staff who manage prospects whose primary gift potential is tied to a planned/legacy gift"
+  },
+  {
+    "docId": "glossary-132",
+    "type": "glossary",
+    "term": "CFR Manager (CFR)",
+    "definition": "Fundraising staff whose portfolio is primarily composed of organization (i.e., corporate and foundation) prospects"
+  },
+  {
+    "docId": "glossary-133",
+    "type": "glossary",
+    "term": "Leadership Annual Gift Manager (LAGM)",
+    "definition": "Fundraising staff who manage prospects whose gift potential is in the $10K-$99.9K range"
+  },
+  {
+    "docId": "glossary-134",
+    "type": "glossary",
+    "term": "Alumni Relations Manager (ARM)",
+    "definition": "Alumni relations staff who manage alumni-only prospects primarily for the purpose of engagement"
+  },
+  {
+    "docId": "glossary-135",
+    "type": "glossary",
+    "term": "Stewardship Manager (STM)",
+    "definition": "Stewardship & Donor Relations staff who manage prospects primarily for the purpose of ongoing/permanent stewardship"
+  },
+  {
+    "docId": "glossary-136",
+    "type": "glossary",
+    "term": "Operations and Services Staff (OPS)",
+    "definition": "All operational and administrative staff in University Advancement"
+  },
+  {
+    "docId": "glossary-137",
+    "type": "glossary",
+    "term": "Non-Advancement Staff (UAD)",
+    "definition": "All Salesforce users who work outside of Advancement (e.g., staff who work in a financial role, staff in the President's office, etc.)"
+  },
+  {
+    "docId": "glossary-138",
+    "type": "glossary",
+    "term": "Student Workers (STU)",
+    "definition": "All USC students employed in a unit that resides under the purview of the Senior Vice President for University Advancement"
+  },
+  {
+    "docId": "glossary-139",
+    "type": "glossary",
+    "term": "Primary Relationship Manager (PRM)",
+    "definition": "The PRM is the principal strategist, relationship-builder, and coordinator of advancement activity for a prospect and assumes overall responsibility and accountability for the cultivation, solicitation, and stewardship of a prospect."
+  },
+  {
+    "docId": "glossary-140",
+    "type": "glossary",
+    "term": "Secondary Relationship Manager (SRM)",
+    "definition": "SRMs are fundraisers with a clear mandate and intent to cultivate, solicit, and steward a prospect or to provide substantive advice toward those efforts. "
+  },
+  {
+    "docId": "glossary-141",
+    "type": "glossary",
+    "term": "Advancement Partner",
+    "definition": "This may be a dean, a physician, or other individual who is not a member of the Advancement team who may be assigned to carry out the actual solicitation of a prospect. This is also a way to track assignments for those who do not normally carry a regular portfolio."
+  },
+  {
+    "docId": "glossary-142",
+    "type": "glossary",
+    "term": "Contact Reports",
+    "definition": "A contact report is a written record of a significant interaction between University Advancement and prospect."
+  },
+  {
+    "docId": "glossary-143",
+    "type": "glossary",
+    "term": "Contact Method",
+    "definition": "Contact Method refers to the type of contact that takes place between a prospect and staff at the University."
+  },
+  {
+    "docId": "glossary-144",
+    "type": "glossary",
+    "term": "Substantive Contact Reports",
+    "definition": "Substantive contacts are defined as direct, two-way interactions between a prospect and USC that relates to moving a prospect through the fundraising cycle."
+  },
+  {
+    "docId": "glossary-145",
+    "type": "glossary",
+    "term": "Contact Outcome",
+    "definition": "All contact reports have an optional field titled Outcome. A contact report can have one of two outcomes, or the outcome field can be left blank."
+  },
+  {
+    "docId": "glossary-146",
+    "type": "glossary",
+    "term": "Contact Outcome: Qualification",
+    "definition": "Confirms that a record should be considered viable for cultivation as a prospect."
+  },
+  {
+    "docId": "glossary-147",
+    "type": "glossary",
+    "term": "Contact Outcome: Disqualification",
+    "definition": "Confirms that a record should not be cultivated as a prospect, either temporarily or\npermanently. When a PRM disqualifies a prospect, a contact report detailing the rationale for the disqualification must be entered."
+  },
+  {
+    "docId": "glossary-148",
+    "type": "glossary",
+    "term": "Disqualification Reason",
+    "definition": "Contact reports with a Disqualification outcome require a Disqualification Reason, which indicates the stage of readiness that accompanies the disqualification."
+  },
+  {
+    "docId": "glossary-149",
+    "type": "glossary",
+    "term": "Disqualification Reason:  Recommend Reassignment",
+    "definition": "Indicates that a prospect should be placed in the Recommended for Reassignment stage"
+  },
+  {
+    "docId": "glossary-150",
+    "type": "glossary",
+    "term": "Disqualification Reason: Recommend Deferring Cultivation",
+    "definition": "Indicates that a prospect should be placed in the Deferred stage"
+  },
+  {
+    "docId": "glossary-151",
+    "type": "glossary",
+    "term": "Disqualification Reason: Recommend Disqualification as a USC Prospect",
+    "definition": "Indicates that a prospect should be placed in the Not a USC Prospect stage"
+  },
+  {
+    "docId": "glossary-152",
+    "type": "glossary",
+    "term": "Disqualification Reason: Recommend Permanent Disqualification",
+    "definition": "Indicates that a prospect should be placed in the Permanently Disqualified stage"
+  },
+  {
+    "docId": "glossary-153",
+    "type": "glossary",
+    "term": "Contact Report Status",
+    "definition": "To protect data integrity and sensitive information about our constituents, the Relationship Management team reviews all contact reports for completeness, accuracy, and the existence of sensitive information (notably protected health information, which should not reside in a contact report). Status determines where a contact report is in the review process. "
+  },
+  {
+    "docId": "glossary-154",
+    "type": "glossary",
+    "term": "Submitted Contact Report",
+    "definition": "The contact report has been logged and is awaiting review by Relationship Management; this is the default status for a contact report when it is logged in Salesforce"
+  },
+  {
+    "docId": "glossary-155",
+    "type": "glossary",
+    "term": "Incomplete Contact Report",
+    "definition": "The contact report has been reviewed by Relationship Management and determined to lack sufficient information to be approved; it is returned to the staff member who entered it"
+  },
+  {
+    "docId": "glossary-156",
+    "type": "glossary",
+    "term": "Resubmitted Contact Report",
+    "definition": "The contact report has been resubmitted and is awaiting review by Relationship Management"
+  },
+  {
+    "docId": "glossary-157",
+    "type": "glossary",
+    "term": "Approved Contact Report",
+    "definition": "The contact report has been approved by Relationship Management"
+  },
+  {
+    "docId": "glossary-158",
+    "type": "glossary",
+    "term": "Qualified Prospects",
+    "definition": "Prospects in the Qualification stage are those for whom, at the time of a PRM assignment, no substantive contact has been documented. After an initial qualification visit, where both the inclination and capacity of the prospect are confirmed, a prospect may be held in the Qualification stage while determination visits are made; these visits confirm a prospect’s capability to make a major gift, as well as ensure which program is the best match for a prospect’s interests. At this stage, SRMs can be assigned."
+  },
+  {
+    "docId": "glossary-159",
+    "type": "glossary",
+    "term": "Cultivation Prospects",
+    "definition": "Prospects in the Cultivation stage are actively engaged to determine which of their interests align with USC’s fundraising priorities. They receive more robust contact (face-to-face meetings, the involvement of academic and volunteer leaders, etc.) and are positioned for a major gift solicitation."
+  },
+  {
+    "docId": "glossary-160",
+    "type": "glossary",
+    "term": "Solisitation Prospects",
+    "definition": "Prospects in the Solicitation stage are being solicited for a major gift. Statistics show that it takes 6-10 quality moves/actions to make a successful major gift solicitation. A proposal in the Submitted stage should be logged on the prospect’s record."
+  },
+  {
+    "docId": "glossary-161",
+    "type": "glossary",
+    "term": "Stewardship Prospects",
+    "definition": "Prospects in the Stewardship stage have made a major gift, typically defined as an outright gift or pledge commitment of $25K+ and are being acknowledged by the fundraiser and Donor Relations and Stewardship team."
+  },
+  {
+    "docId": "glossary-162",
+    "type": "glossary",
+    "term": "Leadership Annual Giving",
+    "definition": "Prospects in the Leadership Annual Giving stage are those who are being managed for a potential gift in the $10K-$99.9K range. Most prospects in this stage are managed by a staff person in a LAGM role, but under certain circumstances some prospects will be managed by a staff person in a non-LAGM role."
+  },
+  {
+    "docId": "glossary-163",
+    "type": "glossary",
+    "term": "Permanent Stewardship",
+    "definition": "Prospects in the Permanent Stewardship stage typically have given to their capacity, or have made an estate or planned gift only, and are not likely to make another large gift. A PRM assignment is required for all prospects in this stage. No more than 25% of a fundraiser’s PRM portfolio should consist of prospects in Permanent Stewardship. Staff who are assigned the Stewardship Manager role can also manage prospects in Permanent Stewardship."
+  },
+  {
+    "docId": "glossary-164",
+    "type": "glossary",
+    "term": "Recommended for Reassignment",
+    "definition": "Prospects in the Recommended for Reassignment stage are candidates for a PRM assignment. This stage should be used for prospects who were disqualified as prospects of a school or unit but may be considered prospects for another school or unit, as well as to indicate that a prospect who has previously been disqualified is now either in need of requalification or should be considered for assignment."
+  },
+  {
+    "docId": "glossary-165",
+    "type": "glossary",
+    "term": "Deferred Prospects",
+    "definition": "Prospects in the Deferred stage are not currently able or willing to make a major gift to USC, so a PRM assignment is not warranted. Reasons could include: Illiquid wealth; Philanthropy maybe committed else where, etc."
+  },
+  {
+    "docId": "glossary-166",
+    "type": "glossary",
+    "term": "Householded Prospect",
+    "definition": "Prospects in the Householded Prospect stage are those whose partner/spouse, close family member, and/or giving vehicle (e.g., family foundation) has an active PRM assignment. Salesforce does not household prospects, so this stage provides a householding mechanism while preserving the identity of individual records for other purposes."
+  },
+  {
+    "docId": "glossary-167",
+    "type": "glossary",
+    "term": "Not a USC Prospect",
+    "definition": "Prospects in the Not a USC Prospect stage are not necessary to consider for assignment, generally because they are unaffiliated or loosely affiliated, or do not have interest in ever making a gift of any size to the University. This is usually determined after the initial qualification visit by a fundraiser or via an assessment and recommendation by Development Research, but there are exceptions. While this stage implies that a prospect may never again be requalified or cultivated for a major gift, this is not always the case. Prospects in this stage can and should be revisited under appropriate circumstances."
+  },
+  {
+    "docId": "glossary-168",
+    "type": "glossary",
+    "term": "Permanently Disqualified Prospects",
+    "definition": "Prospects in the Permanently Disqualified stage are those for whom engaging in a gift conversation would adversely affect the reputation of the University. Deceased individuals and defunct organizations should reside in this stage as well. The Development Research or Relationship Management teams may also recommend permanent disqualification for a prospect. All requests to move a prospect into this stage are subject to additional layers of review."
+  },
+  {
+    "docId": "glossary-169",
+    "type": "glossary",
+    "term": "Strategy Type",
+    "definition": "Orients a strategy to a prospect’s status in the fundraising cycle at the time of its entry in Salesforce. Possibel types include: Qualificaiton Strategy, CUltivation Strategy, Solicitation Strategy, Stewardship Strategy, etc."
+  },
+  {
+    "docId": "glossary-170",
+    "type": "glossary",
+    "term": "Strategy Date",
+    "definition": "Date a strategy became effective"
+  },
+  {
+    "docId": "glossary-171",
+    "type": "glossary",
+    "term": "Strategy Summary",
+    "definition": "Overview of the overarching strategy goal(s) at a high level"
+  },
+  {
+    "docId": "glossary-172",
+    "type": "glossary",
+    "term": "Strategy Detail",
+    "definition": "Describes the summarized goal(s) at a more granular level"
+  },
+  {
+    "docId": "glossary-173",
+    "type": "glossary",
+    "term": "Strategy Next Step",
+    "definition": "Describes subsequent moves/following actions"
+  },
+  {
+    "docId": "faq-5",
+    "type": "faq",
+    "question": "1",
+    "answer": "A Tableau collection is a way to group related Tableau content, such as dashboards, workbooks, views, and data sources, into a single, organized set. This helps in managing and accessing related content more efficiently."
+  },
+  {
+    "docId": "faq-7",
+    "type": "faq",
+    "question": "3",
+    "answer": "Yes, you can share collections with other users or groups within your organization. Sharing permissions can be managed through the collection’s settings, allowing you to control who can view or edit the collection."
+  },
+  {
+    "docId": "faq-8",
+    "type": "faq",
+    "question": "4",
+    "answer": "While Tableau does not support nested collections, you can use naming conventions and descriptions to organize collections logically. A single piece of content can be included in multiple collections, helping you maintain organization."
+  },
+  {
+    "docId": "faq-9",
+    "type": "faq",
+    "question": "5",
+    "answer": "Ensure you have the necessary permissions to view or add content to the collection. Check your filters and search settings to make sure the collection is not being excluded from your view. Verify that the content is compatible with collections and that you have the appropriate permissions to add it."
+  },
+  {
+    "docId": "faq-10",
+    "type": "faq",
+    "question": "6",
+    "answer": "A subscription in Tableau allows users to receive regular email updates of a dashboard or workbook. To create a subscription, navigate to the dashboard or workbook you want to subscribe to, click the \"Subscribe\" button, choose your preferred schedule and format, and confirm your subscription."
+  },
+  {
+    "docId": "faq-11",
+    "type": "faq",
+    "question": "7",
+    "answer": "You can manage your subscriptions by navigating to the \"Subscriptions\" section in Tableau Server or Tableau Online. Here, you can view all your subscriptions, edit the schedule or format, pause or resume subscriptions, and delete any that are no longer needed."
+  },
+  {
+    "docId": "faq-12",
+    "type": "faq",
+    "question": "8",
+    "answer": "Any user with the necessary permissions to view the content can subscribe to it. Permissions to create and manage subscriptions are controlled by Tableau Server or Tableau Online administrators, ensuring that only authorized users can set up subscriptions."
+  },
+  {
+    "docId": "faq-13",
+    "type": "faq",
+    "question": "9",
+    "answer": "Yes, you can share subscriptions with other users. When setting up a subscription, you can add multiple recipients who will receive the same email updates. Each recipient must have the necessary permissions to view the content being subscribed to."
+  },
+  {
+    "docId": "faq-14",
+    "type": "faq",
+    "question": "10",
+    "answer": "Ensure your email settings are correct and that emails from Tableau are not being filtered into spam. Check that the subscription schedule is correct and that the Tableau Server or Tableau Online is running without issues. If the data appears incorrect, verify that the source data has been updated and that there are no issues with the underlying data connection."
+  },
+  {
+    "docId": "faq-15",
+    "type": "faq",
+    "question": "11",
+    "answer": "A Tableau view is a visual representation of data, such as charts, graphs, maps, and tables. To create one, connect to a data source in Tableau, drag fields onto the Rows and Columns shelves, choose a visualization type from the \"Show Me\" pane, customize using the Marks card, and save your view."
+  },
+  {
+    "docId": "faq-16",
+    "type": "faq",
+    "question": "12",
+    "answer": "If a dashboard has filtering capabilities, locate the yellow 'Filter Pane' button located on the top right corner of each dashboard. "
+  },
+  {
+    "docId": "faq-17",
+    "type": "faq",
+    "question": "13",
+    "answer": "To set up a Cognos subscription, please reach out to the Business Intelligence team at advrpt@usc.edu. You can set up delivery schedules for daily, weekly, monthly, or custom intervals."
+  },
+  {
+    "docId": "faq-18",
+    "type": "faq",
+    "question": "14",
+    "answer": "Reports can be shared by saving them to a shared folder within Cognos, emailing them directly, or providing access through Cognos Connection or Cognos Analytics portals."
+  },
+  {
+    "docId": "faq-19",
+    "type": "faq",
+    "question": "15",
+    "answer": "Cognos provides Excel or PDF reports, making it ideal for those preparing mailing lists, prospecting, etc. Tableau, on the other hand, is best for interactive data visualization and self-service analytics, allowing you to explore data more freely."
+  },
+  {
+    "docId": "faq-20",
+    "type": "faq",
+    "question": "16",
+    "answer": "You can access Tableau via the link in Salesforce. To connect to the Tableau site, you will need to be connected to the VPN."
+  },
+  {
+    "docId": "faq-21",
+    "type": "faq",
+    "question": "17",
+    "answer": "Scheduled reports can be set up using subscriptions for automated email delivery."
+  },
+  {
+    "docId": "faq-22",
+    "type": "faq",
+    "question": "18",
+    "answer": "Tableau is a data visualization and business intelligence tool that helps users analyze and present data in an interactive and visually appealing manner."
+  },
+  {
+    "docId": "faq-23",
+    "type": "faq",
+    "question": "19",
+    "answer": "If you are a first-time user, please reach out to the Business Intelligence team at advrpt@.usc.edu to set up your Tableau profile. For returning users, you will need to be connected to the VPN. "
+  },
+  {
+    "docId": "faq-24",
+    "type": "faq",
+    "question": "20",
+    "answer": "To resolve this common error message, clear out your browser's history and cache/cookies. "
+  },
+  {
+    "docId": "faq-28",
+    "type": "faq",
+    "question": "21",
+    "answer": "A workset is a file containing a set of DonorIDs that will be used to generate a Standard Report in Cognos. These DonorIDs can be compiled manually or by submitting a request to the BI team."
+  },
+  {
+    "docId": "faq-29",
+    "type": "faq",
+    "question": "22",
+    "answer": "A Standard Report in Cognos is a structured report that presents key details about constituents or organizations, including demographics, relationships, and giving history, in a predefined format for consistent analysis and reporting."
+  },
+  {
+    "docId": "faq-30",
+    "type": "faq",
+    "question": "23",
+    "answer": "We offer on-demand training resources, along with virtual training sessions. For the most up to date information, visit our Training Resources page."
   }
 ]
