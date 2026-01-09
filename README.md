@@ -104,21 +104,48 @@ Set these environment variables as needed:
 
 - `EMBED_MODEL` - Sentence transformer model (default: `all-MiniLM-L6-v2`)
 
+For SharePoint integration (production data):
+
+- `TENANT_ID` - Azure AD tenant ID
+- `CLIENT_ID` - Azure AD app client ID
+- `CLIENT_SECRET` - Azure AD app client secret
+- `REFRESH_TOKEN` - Microsoft Graph refresh token
+
+## Fetching Real Data from SharePoint
+
+To use real SharePoint data instead of mock data:
+
+```bash
+# 1. Set up environment variables in .env file
+# 2. Fetch reports from SharePoint
+python scripts/fetch_sharepoint.py
+
+# 3. Rebuild indexes with the new data
+python scripts/build_index.py --force
+
+# 4. Restart the server
+uvicorn app.main:app --reload
+```
+
+The fetch script will create `data/docs.json` which `build_index.py` will automatically use if present.
+
 ## Project Structure
 
 ```
 app/
-  main.py        - FastAPI endpoints
-  models.py      - Request/response schemas
-  hybrid.py      - Score blending and ranking
-  semantic.py    - FAISS vector search
-  keyword.py     - SQLite FTS5 search
-  index_store.py - Index loading and caching
-  auth.py        - Auth placeholder
+  main.py           - FastAPI endpoints
+  models.py         - Request/response schemas
+  hybrid.py         - Score blending and ranking
+  semantic.py       - FAISS vector search
+  keyword.py        - SQLite FTS5 search
+  index_store.py    - Index loading and caching
+  auth.py           - Auth placeholder
 scripts/
-  build_index.py - Index builder
+  fetch_sharepoint.py - Fetch reports from SharePoint
+  build_index.py      - Build FAISS + FTS indexes
 data/
-  mock_docs.json - Source documents
+  mock_docs.json    - Sample documents (for testing)
+  docs.json         - Real documents (from SharePoint)
 ```
 
 ## Test Cases for Demo

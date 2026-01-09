@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build search indexes from mock_docs.json.
+Build search indexes from document JSON file.
 
 Outputs:
 - data/index.faiss: FAISS IndexFlatIP for cosine similarity (normalized embeddings)
@@ -8,7 +8,7 @@ Outputs:
 - data/search.db: SQLite database with FTS5 for keyword search
 
 Usage:
-    python scripts/build_index.py [--force]
+    python scripts/build_index.py [--force] [--input data/docs.json]
 
 Environment:
     EMBED_MODEL: Sentence transformer model (default: all-MiniLM-L6-v2)
@@ -30,7 +30,7 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_ROOT / "data"
 
-INPUT_FILE = DATA_DIR / "mock_docs.json"
+DEFAULT_INPUT_FILE = DATA_DIR / "mock_docs.json"
 FAISS_INDEX_FILE = DATA_DIR / "index.faiss"
 METADATA_FILE = DATA_DIR / "metadata.jsonl"
 SQLITE_DB_FILE = DATA_DIR / "search.db"
@@ -303,18 +303,33 @@ def check_outputs_exist() -> list[Path]:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Build search indexes from mock_docs.json"
+        description="Build search indexes from document JSON file"
     )
     parser.add_argument(
         "--force",
         action="store_true",
         help="Overwrite existing output files",
     )
+    parser.add_argument(
+        "--input",
+        type=Path,
+        default=None,
+        help="Input JSON file (default: data/docs.json or data/mock_docs.json)",
+    )
     args = parser.parse_args()
     
+    # Determine input file (prefer docs.json over mock_docs.json)
+    if args.input:
+        input_file = args.input
+    elif (DATA_DIR / "docs.json").exists():
+        input_file = DATA_DIR / "docs.json"
+    else:
+        input_file = DEFAULT_INPUT_FILE
+    
     # Check input file
-    if not INPUT_FILE.exists():
-        print(f"Error: Input file not found: {INPUT_FILE}")
+    if not input_file.exists():
+        print(f"Error: Input file not found: {input_file}")
+        print("Run fetch_sharepoint.py first, or ensure mock_docs.json exists.")
         sys.exit(1)
     
     # Check for existing outputs
@@ -327,8 +342,8 @@ def main():
         sys.exit(1)
     
     # Load documents
-    print(f"Loading documents from {INPUT_FILE}...")
-    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+    print(f"Loading documents from {input_file}...")
+    with open(input_file, "r", encoding="utf-8") as f:
         documents = json.load(f)
     print(f"Loaded {len(documents)} documents")
     
