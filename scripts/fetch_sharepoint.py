@@ -19,8 +19,10 @@ Environment variables required:
 """
 
 import argparse
+import html
 import json
 import os
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -28,6 +30,31 @@ from typing import Callable
 
 import requests
 from dotenv import load_dotenv
+
+
+def strip_html(text: str) -> str:
+    """
+    Remove HTML tags and decode HTML entities from text.
+    
+    Args:
+        text: HTML string to clean
+        
+    Returns:
+        Plain text with tags removed and entities decoded
+    """
+    if not text:
+        return ""
+    
+    # Remove HTML tags
+    clean = re.sub(r'<[^>]+>', ' ', text)
+    
+    # Decode HTML entities (e.g., &#58; -> :)
+    clean = html.unescape(clean)
+    
+    # Normalize whitespace (collapse multiple spaces/newlines)
+    clean = re.sub(r'\s+', ' ', clean)
+    
+    return clean.strip()
 
 # Disable SSL warnings for internal endpoints
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
@@ -339,8 +366,9 @@ def transform_training_videos(items: list[dict]) -> list[dict]:
         path_parts = file_path.split("/")
         category = path_parts[-2] if len(path_parts) >= 2 else ""
         
-        # Description field in SharePoint is OData__ExtendedDescription
-        description = item.get("OData__ExtendedDescription") or ""
+        # Description field in SharePoint is OData__ExtendedDescription (HTML format)
+        raw_description = item.get("OData__ExtendedDescription") or ""
+        description = strip_html(raw_description)
         
         doc = {
             "docId": f"video-{doc_id}",
