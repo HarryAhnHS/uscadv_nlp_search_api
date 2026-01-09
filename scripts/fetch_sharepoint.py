@@ -127,14 +127,14 @@ LIST_CONFIGS = {
         "list_name": "FAQs",
         "enabled": True,
         "fields": [
-            "Id", "Title",  # Title = Question
-            "Answer",       # Answer field
+            "Id",
+            "Question",     # Question text
+            "Answer",       # Answer text
             "Link",         # Optional link
-            "Priority",     # Optional priority
         ],
         # Field mapping: SharePoint field -> output field
         "field_map": {
-            "Title": "question",
+            "Question": "question",
             "Answer": "answer",
             "Link": "url",
         },
@@ -423,7 +423,7 @@ def transform_faqs(items: list[dict]) -> list[dict]:
     """Transform SharePoint FAQ items to search format.
     
     Field mapping (update in LIST_CONFIGS if your fields differ):
-    - Title -> question
+    - Question -> question
     - Answer -> answer
     - Link -> url (optional)
     """
@@ -431,7 +431,7 @@ def transform_faqs(items: list[dict]) -> list[dict]:
     
     # Get field mapping from config
     field_map = LIST_CONFIGS["faqs"].get("field_map", {})
-    q_field = next((k for k, v in field_map.items() if v == "question"), "Title")
+    q_field = next((k for k, v in field_map.items() if v == "question"), "Question")
     a_field = next((k for k, v in field_map.items() if v == "answer"), "Answer")
     url_field = next((k for k, v in field_map.items() if v == "url"), "Link")
     

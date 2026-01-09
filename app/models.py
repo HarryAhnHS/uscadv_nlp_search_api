@@ -43,6 +43,10 @@ class SearchResult(BaseModel):
     # Glossary-specific fields
     term: str | None = None
     definition: str | None = None
+    
+    # FAQ-specific fields
+    question: str | None = None
+    answer: str | None = None
 
 
 class SearchResponse(BaseModel):

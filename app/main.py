@@ -69,7 +69,7 @@ async def search(
     q: Annotated[str, Query(min_length=1, description="Search query")],
     type: Annotated[
         str | None,
-        Query(description="Filter by document type (report, training_video, glossary)"),
+        Query(description="Filter by document type (report, training_video, glossary, faq)"),
     ] = None,
     category: Annotated[
         str | None,
@@ -128,9 +128,18 @@ async def search(
         elif doc_type == "training_video":
             result.title = metadata.get("title")
             result.description = metadata.get("description")
+            result.category = metadata.get("category")
         elif doc_type == "glossary":
             result.term = metadata.get("term")
             result.definition = metadata.get("definition")
+            # Unified title field for display
+            result.title = metadata.get("term")
+        elif doc_type == "faq":
+            result.question = metadata.get("question")
+            result.answer = metadata.get("answer")
+            result.url = metadata.get("url")
+            # Unified title field for display
+            result.title = metadata.get("question")
         
         results.append(result)
     

@@ -4299,133 +4299,133 @@
   {
     "docId": "faq-5",
     "type": "faq",
-    "question": "1",
+    "question": "What is a Tableau collection and what types of content can be added to it?",
     "answer": "A Tableau collection is a way to group related Tableau content, such as dashboards, workbooks, views, and data sources, into a single, organized set. This helps in managing and accessing related content more efficiently."
   },
   {
     "docId": "faq-7",
     "type": "faq",
-    "question": "3",
+    "question": "Can I share my Tableau collections and manage permissions?",
     "answer": "Yes, you can share collections with other users or groups within your organization. Sharing permissions can be managed through the collection’s settings, allowing you to control who can view or edit the collection."
   },
   {
     "docId": "faq-8",
     "type": "faq",
-    "question": "4",
+    "question": "How do I organize and manage multiple collections in Tableau?",
     "answer": "While Tableau does not support nested collections, you can use naming conventions and descriptions to organize collections logically. A single piece of content can be included in multiple collections, helping you maintain organization."
   },
   {
     "docId": "faq-9",
     "type": "faq",
-    "question": "5",
+    "question": "What should I do if I encounter issues with collections, such as not finding a collection or being unable to add content?",
     "answer": "Ensure you have the necessary permissions to view or add content to the collection. Check your filters and search settings to make sure the collection is not being excluded from your view. Verify that the content is compatible with collections and that you have the appropriate permissions to add it."
   },
   {
     "docId": "faq-10",
     "type": "faq",
-    "question": "6",
+    "question": "What is a subscription in Tableau and how do I create one?",
     "answer": "A subscription in Tableau allows users to receive regular email updates of a dashboard or workbook. To create a subscription, navigate to the dashboard or workbook you want to subscribe to, click the \"Subscribe\" button, choose your preferred schedule and format, and confirm your subscription."
   },
   {
     "docId": "faq-11",
     "type": "faq",
-    "question": "7",
+    "question": "How can I manage my Tableau subscriptions?",
     "answer": "You can manage your subscriptions by navigating to the \"Subscriptions\" section in Tableau Server or Tableau Online. Here, you can view all your subscriptions, edit the schedule or format, pause or resume subscriptions, and delete any that are no longer needed."
   },
   {
     "docId": "faq-12",
     "type": "faq",
-    "question": "8",
+    "question": "Who can subscribe to Tableau content and what permissions are required?",
     "answer": "Any user with the necessary permissions to view the content can subscribe to it. Permissions to create and manage subscriptions are controlled by Tableau Server or Tableau Online administrators, ensuring that only authorized users can set up subscriptions."
   },
   {
     "docId": "faq-13",
     "type": "faq",
-    "question": "9",
+    "question": "Can I share subscriptions with others, and how do shared subscriptions work?",
     "answer": "Yes, you can share subscriptions with other users. When setting up a subscription, you can add multiple recipients who will receive the same email updates. Each recipient must have the necessary permissions to view the content being subscribed to."
   },
   {
     "docId": "faq-14",
     "type": "faq",
-    "question": "10",
+    "question": "What should I do if I encounter issues with Tableau subscriptions, such as not receiving emails or incorrect data in the updates?",
     "answer": "Ensure your email settings are correct and that emails from Tableau are not being filtered into spam. Check that the subscription schedule is correct and that the Tableau Server or Tableau Online is running without issues. If the data appears incorrect, verify that the source data has been updated and that there are no issues with the underlying data connection."
   },
   {
     "docId": "faq-15",
     "type": "faq",
-    "question": "11",
+    "question": "What is a Tableau view and how do I create one?",
     "answer": "A Tableau view is a visual representation of data, such as charts, graphs, maps, and tables. To create one, connect to a data source in Tableau, drag fields onto the Rows and Columns shelves, choose a visualization type from the \"Show Me\" pane, customize using the Marks card, and save your view."
   },
   {
     "docId": "faq-16",
     "type": "faq",
-    "question": "12",
+    "question": "How can I filter a Tableau dashboard?",
     "answer": "If a dashboard has filtering capabilities, locate the yellow 'Filter Pane' button located on the top right corner of each dashboard. "
   },
   {
     "docId": "faq-17",
     "type": "faq",
-    "question": "13",
+    "question": "Can I schedule Cognos reports and deliver the report to my email automatically?",
     "answer": "To set up a Cognos subscription, please reach out to the Business Intelligence team at advrpt@usc.edu. You can set up delivery schedules for daily, weekly, monthly, or custom intervals."
   },
   {
     "docId": "faq-18",
     "type": "faq",
-    "question": "14",
+    "question": "How can I share Cognos reports with other users?",
     "answer": "Reports can be shared by saving them to a shared folder within Cognos, emailing them directly, or providing access through Cognos Connection or Cognos Analytics portals."
   },
   {
     "docId": "faq-19",
     "type": "faq",
-    "question": "15",
+    "question": "What is the difference between Cognos and Tableau?",
     "answer": "Cognos provides Excel or PDF reports, making it ideal for those preparing mailing lists, prospecting, etc. Tableau, on the other hand, is best for interactive data visualization and self-service analytics, allowing you to explore data more freely."
   },
   {
     "docId": "faq-20",
     "type": "faq",
-    "question": "16",
+    "question": "How do I access Tableau?",
     "answer": "You can access Tableau via the link in Salesforce. To connect to the Tableau site, you will need to be connected to the VPN."
   },
   {
     "docId": "faq-21",
     "type": "faq",
-    "question": "17",
+    "question": "Can I schedule automated reports in Tableau?",
     "answer": "Scheduled reports can be set up using subscriptions for automated email delivery."
   },
   {
     "docId": "faq-22",
     "type": "faq",
-    "question": "18",
+    "question": "What is Tableau?",
     "answer": "Tableau is a data visualization and business intelligence tool that helps users analyze and present data in an interactive and visually appealing manner."
   },
   {
     "docId": "faq-23",
     "type": "faq",
-    "question": "19",
+    "question": "I can't access Tableau; the message says server is not available. ",
     "answer": "If you are a first-time user, please reach out to the Business Intelligence team at advrpt@.usc.edu to set up your Tableau profile. For returning users, you will need to be connected to the VPN. "
   },
   {
     "docId": "faq-24",
     "type": "faq",
-    "question": "20",
+    "question": "I can't access Cognos; the message says 'Invalid Logon Response'",
     "answer": "To resolve this common error message, clear out your browser's history and cache/cookies. "
   },
   {
     "docId": "faq-28",
     "type": "faq",
-    "question": "21",
+    "question": "What are worksets?",
     "answer": "A workset is a file containing a set of DonorIDs that will be used to generate a Standard Report in Cognos. These DonorIDs can be compiled manually or by submitting a request to the BI team."
   },
   {
     "docId": "faq-29",
     "type": "faq",
-    "question": "22",
+    "question": "What is a Standard Report in Cognos",
     "answer": "A Standard Report in Cognos is a structured report that presents key details about constituents or organizations, including demographics, relationships, and giving history, in a predefined format for consistent analysis and reporting."
   },
   {
     "docId": "faq-30",
     "type": "faq",
-    "question": "23",
+    "question": "Are there training sessions I can sign up?",
     "answer": "We offer on-demand training resources, along with virtual training sessions. For the most up to date information, visit our Training Resources page."
   }
 ]
