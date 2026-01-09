@@ -3757,5 +3757,675 @@
       "Tableau",
       "Yes"
     ]
+  },
+  {
+    "docId": "video-44",
+    "type": "training_video",
+    "title": "Collections in Tableau",
+    "description": "<div>In this instructional video, you will learn how to utilize collections in Tableau.</div><div><div>Topic Covered&#58;<div><ul><li>Creating and Deleting Collections</li><li>Accessing Collections</li><li>Sharing Collections</li><li>Putting it into Practice</li></ul></div></div></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-46",
+    "type": "training_video",
+    "title": "Connecting To and Understanding Tableau",
+    "description": "<div>In this instructional video, you will learn how to connect to Tableau through Salesforce and navigate its basic organizational structure.<br></div><div><br></div><div>Topics Covered&#58;<br></div><div><ul><li>Connecting to the Tableau Server</li><li>Organizational Hierarchy (Projects, Workbooks, Views)</li><li>General Dashboard Layout</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-48",
+    "type": "training_video",
+    "title": "Searching and Filtering in Tableau",
+    "description": "In this instructional video you will learn how to navigate the search and filter options in Tableau. <br><div><br></div><div>Topic Covered&#58;<br></div><div><ul><li>Scope of the Search Bar</li><li>Using the Search Bar</li><li>Searching from the Explore Tab</li><li>Putting it into Practice</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-50",
+    "type": "training_video",
+    "title": "Favorites in Tableau",
+    "description": "In this instructional video, you will learn how to use the favorites feature in Tableau.<br><div><br></div><div>Topic Covered&#58;<br></div><div><ul><li>Marking and Unmarking Favorites</li><li>Accessing and Rearranging Favorites</li><li>Putting it into Practice</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-54",
+    "type": "training_video",
+    "title": "Subscriptions in Tableau",
+    "description": "In this instructional video, you will learn how to utilize Subscriptions in Tableau.<br><div><br></div><div>Topic Covered&#58;<br></div><div><ul><li>Creating Subscriptions</li><li>Managing and Viewing Subscriptions</li><li>Unsubscribing</li><li>Putting it into Practice</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-56",
+    "type": "training_video",
+    "title": "Custom Views in Tableau",
+    "description": "In this instructional video, you will learn how to create and access Custom Views in Tableau.<br><div><br></div><div>Topic Covered&#58;<br></div><div><ul><li>Creating, Saving, and Deleting Custom views</li><li>Managing View Settings</li><li>Tracking and Accessing Custom views</li><li>Putting it into Practice</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-58",
+    "type": "training_video",
+    "title": "Sharing In Tableau",
+    "description": "In this instructional video, you will learn how to share content in Tableau.<br><div><br></div><div>Topic Covered&#58;<br></div><div><ul><li>Sharing from a View</li><li>Sharing from the Homepage</li><li>Sharing Content from a Parent Folder</li><li>Sharing a Project or Workbook</li><li>Putting it into Practice</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-60",
+    "type": "training_video",
+    "title": "Notifications in Tableau",
+    "description": "<div>In this instructional video, you will learn how to manage notifications in Tableau.<br></div><div><br></div><div>Topic Covered&#58;<br></div><div><ul><li>Viewing Notifications</li><li>Managing Notification</li><li>Removing Notifications</li><li>Putting it into Practice</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-64",
+    "type": "training_video",
+    "title": "Comments in Tableau",
+    "description": "In this instructional video, you will learn how to create Custom Views in Tableau.<br><div><br></div><div>Topic Covered&#58;<br></div><div><ul><li>Adding a Comment </li><li>Adding Snapshots to Comments</li><li>Comment Notifications</li><li>Deleting Comments</li><li>Putting it into Practice</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-65",
+    "type": "training_video",
+    "title": "Downloading in Tableau",
+    "description": "In this instructional video, you will learn how to Download Content from a Dashboard in Tableau.<br><div><br></div><div>Topic Covered&#58;<br></div><div><ul><li>Downloading Content (navigation, download options and file types)</li></ul></div>",
+    "category": "Tableau"
+  },
+  {
+    "docId": "video-68",
+    "type": "training_video",
+    "title": "Introduction to Cognos and Common Troubleshooting",
+    "description": "<div>In this instructional video, you will learn how to access and utilize Cognos.</div><div><div>\tTopic Covered&#58;<div><ul><li>Accessing Cognos</li><li>Cognos Use cases</li></ul></div></div></div>",
+    "category": "Cognos"
+  },
+  {
+    "docId": "video-70",
+    "type": "training_video",
+    "title": "Navigating Through Cognos",
+    "description": "<div>In this instructional video you will learn how to navigate through Cognos.</div><div><div>\tTopics Covered&#58;<div><ul><li>Basic Navigation</li><li>Setting a Custom Homepage</li></ul></div></div></div>",
+    "category": "Cognos"
+  },
+  {
+    "docId": "video-72",
+    "type": "training_video",
+    "title": "Searching for Reports in Cognos",
+    "description": "<div>In this instructional video you will learn how to Search, Save, and Filter Reports in Cognos<br></div><div><br></div><div>Topics Covered&#58;<br></div><div><ul><li>Searching in Cognos</li><li>Putting it into Practice</li></ul></div>",
+    "category": "Cognos"
+  },
+  {
+    "docId": "video-81",
+    "type": "training_video",
+    "title": "Generating Reports Using Prompts in Cognos",
+    "description": "In this instructional video, you will learn how to Generate reports using prompts in Cognos.<br><div><ul><li>Prompt Types&#58; Value</li><li>Prompt Types&#58; Search</li><li>Prompt Types&#58; Range</li><li>Running a Report</li></ul></div>",
+    "category": "Cognos"
+  },
+  {
+    "docId": "video-83",
+    "type": "training_video",
+    "title": "Saving and Sharing Reports in Cognos",
+    "description": "<div>In this instructional video, you will learn how to Save and Share reports in Cognos.</div><div><br></div><div><ul><li>Running a Report</li><li>Emailing Reports</li></ul></div>",
+    "category": "Cognos"
+  },
+  {
+    "docId": "video-85",
+    "type": "training_video",
+    "title": "Generating Reports Using a Work Set in Cognos",
+    "description": "<div>In this instructional video, you will learn how to create a workset and generate Cognos reports with them.</div><div><div>Topics Covered&#58;<div><ul><li>Creating a Work Set</li><li>Generating a Work Set in Salesforce</li><li>Generating a Cognos Report Using a Workset</li></ul></div></div></div>",
+    "category": "Cognos"
+  },
+  {
+    "docId": "glossary-103",
+    "type": "glossary",
+    "term": "Planned Proposals",
+    "definition": "A solicitation is planned, but a proposal has not been delivered to a prospect."
+  },
+  {
+    "docId": "glossary-104",
+    "type": "glossary",
+    "term": "Submitted Proposals",
+    "definition": "A solicitation has been made (i.e., a proposal has been delivered to a prospect), but a gift, pledge, or planned/legacy gift has not yet been recorded in Salesforce."
+  },
+  {
+    "docId": "glossary-105",
+    "type": "glossary",
+    "term": "Funded Proposals",
+    "definition": "A solicitation was made (i.e., a proposal was delivered to a prospect), and a gift or pledge has been booked in Salesforce, or a planned/legacy gift has been documented."
+  },
+  {
+    "docId": "glossary-106",
+    "type": "glossary",
+    "term": "Withdrawn Proposals",
+    "definition": "A solicitation was planned, but no proposal was delivered to a prospect."
+  },
+  {
+    "docId": "glossary-107",
+    "type": "glossary",
+    "term": "Declined Proposals",
+    "definition": "A solicitation was made, and a proposal was delivered to a prospect, but the prospect either refused to make a gift or was not responsive."
+  },
+  {
+    "docId": "glossary-108",
+    "type": "glossary",
+    "term": "Principal Proposals",
+    "definition": "Proposals with a planned, submitted, or funded amount of $1M+."
+  },
+  {
+    "docId": "glossary-109",
+    "type": "glossary",
+    "term": "Transformational Proposals",
+    "definition": "Proposals with a planned, submitted, or funded amount of $10M+. These proposals will also be represented in Principal Proposal counts unless otherwise noted."
+  },
+  {
+    "docId": "glossary-110",
+    "type": "glossary",
+    "term": "Proposal Amount",
+    "definition": "The value of the proposal associated with its corresponding stage (e.g., The Proposal Amount reported for a 'Planned' proposal corresponds to the Planned Ask Amount, while the Proposal Amount for a 'Submitted' proposal corresponds to the 'Submitted Amount'.)"
+  },
+  {
+    "docId": "glossary-111",
+    "type": "glossary",
+    "term": "Proposal Status",
+    "definition": "Represents the current stage of a proposal in the lifecycle of the corresponding solicitation."
+  },
+  {
+    "docId": "glossary-112",
+    "type": "glossary",
+    "term": "Advancement Role ",
+    "definition": "University Advancement staff role that best represents the fundraiser's overall job responsibilities. For more information on the role definition, refer to to the 'Matrix of Staff Roles for Portfolio Managers'."
+  },
+  {
+    "docId": "glossary-113",
+    "type": "glossary",
+    "term": "Win Rate",
+    "definition": "The percentage of solicitations that result in a funded proposal, calculated by dividing the number of successful solicitations (those that result in a funded proposal) by the total number of solicitations made (excluding 'Withdrawn' and 'Declined' proosals), then multiplying by 100 to express it as a percentage. This metric is used to measure the effectiveness of a fundraiser's solicitation strategy in converting prospective donors into actual contributors. "
+  },
+  {
+    "docId": "glossary-114",
+    "type": "glossary",
+    "term": "Primary Credit",
+    "definition": "The staff member(s) responsible for managing, leading, and coordinating a solicitation."
+  },
+  {
+    "docId": "glossary-115",
+    "type": "glossary",
+    "term": "Assist Credit",
+    "definition": "The staff member(s) participating in a solicitation by providing whatever support is needed from their respective school or unit or from the fundraisers managing the solicitation."
+  },
+  {
+    "docId": "glossary-116",
+    "type": "glossary",
+    "term": "Lost Proposals",
+    "definition": "Proposals that were submitted but were ultimately not successful (i.e., propsoals in the 'Withdrawn' and 'Declined' stages)."
+  },
+  {
+    "docId": "glossary-117",
+    "type": "glossary",
+    "term": "Won Proposals ",
+    "definition": "Proposals that are in the 'Funded' stage. "
+  },
+  {
+    "docId": "glossary-118",
+    "type": "glossary",
+    "term": "Open Proposals",
+    "definition": "Proposals that are currently active and in the 'Planned' or 'Submitted' stages."
+  },
+  {
+    "docId": "glossary-119",
+    "type": "glossary",
+    "term": "Proposal Expected Close Date",
+    "definition": "The date that a gift is expected to be booked. The date is required for 'Submitted' proposals."
+  },
+  {
+    "docId": "glossary-120",
+    "type": "glossary",
+    "term": "PRM Target Gift Range",
+    "definition": "Denotes the gift conversation a fundraiser intends to have with a prospect; this rating could be based on inclination or highest capacity and will vary from prospect-to-prospect."
+  },
+  {
+    "docId": "glossary-121",
+    "type": "glossary",
+    "term": "Capacity Rating Status",
+    "definition": "The Capacity Rating Status, which appears under the Capacity Rating on the Constituent/Organization Summary in Salesforce (i.e., on a record’s landing page) and in reports and dashboards, indicates both the source and level of confidence in the hierarchy-generated capacity rating."
+  },
+  {
+    "docId": "glossary-122",
+    "type": "glossary",
+    "term": "Capacity Rating Status: Confirmed by Research",
+    "definition": "When the Capacity Rating which appears under the Capacity Rating on the Constituent/Organization Summary in Salesforce (i.e., on a record’s landing page) and in reports and dashboards is based on a Development Research rating"
+  },
+  {
+    "docId": "glossary-123",
+    "type": "glossary",
+    "term": "Capacity Rating Status: Unconfirmed",
+    "definition": "When the Capacity Rating which appears under the Capacity Rating on the Constituent/Organization Summary in Salesforce (i.e., on a record’s landing page) and in reports and dashboards is based on a rating by a wealth screening vendor"
+  },
+  {
+    "docId": "glossary-124",
+    "type": "glossary",
+    "term": "Predictive Giving Score",
+    "definition": "A one-time predictive analysis of records in Salesforce. There are three score subtypes, which are static and have not been applied to new records since 2019  -  GLS (Gift Likelihood Score): Likelihood to make a gift of any amount; MGS (Major Gift Score): Likelihood to make a major gift; PGS (Planned Gift Score): Likelihood to make a planned gift"
+  },
+  {
+    "docId": "glossary-125",
+    "type": "glossary",
+    "term": "Fundraiser Tier/GG+A Affinity",
+    "definition": "When the Fundraiser rating type is selected (see above), this affinity rating (A through E) may be assigned by a fundraiser to assist in prioritizing their own portfolios."
+  },
+  {
+    "docId": "glossary-126",
+    "type": "glossary",
+    "term": "Stelter",
+    "definition": "Planned giving scores that measure loyalty and demonstrated capacity, assigned by this vendor. Possible Scores: A: Outstanding Loyalty - Outstanding Capacity, B: Outstanding Loyalty - Moderate Capacity, C: Moderate Loyalty - Outstanding Capacity, and D: Moderate Loyalty - Moderate Capacity"
+  },
+  {
+    "docId": "glossary-127",
+    "type": "glossary",
+    "term": "Transformational Gift Officer (TGO)",
+    "definition": "Fundraising staff who manage programs centrally or in the schools/units and/or whose portfolio is primarily composed of prospects whose gift potential is $10M+"
+  },
+  {
+    "docId": "glossary-128",
+    "type": "glossary",
+    "term": "Principal Gift Officer (PGO)",
+    "definition": "Fundraising staff who manage programs centrally or in the schools/units and/or whose portfolio is primarily composed of prospects whose gift potential is $1M+"
+  },
+  {
+    "docId": "glossary-129",
+    "type": "glossary",
+    "term": "Major Gifts Team Manager (MGT)",
+    "definition": "Fundraising staff who provide supervision to one or more major gift officers and whose portfolio is primarily composed of prospects whose gift potential is $250K+"
+  },
+  {
+    "docId": "glossary-130",
+    "type": "glossary",
+    "term": "Major Gift Officer (MGO)",
+    "definition": "Fundraising staff whose portfolio is primarily composed of prospects whose gift potential is $250K+, although under certain circumstances this threshold will be lower (e.g., $50K+)"
+  },
+  {
+    "docId": "glossary-131",
+    "type": "glossary",
+    "term": "Gift Planning Manager (GPM)",
+    "definition": "Fundraising staff who manage prospects whose primary gift potential is tied to a planned/legacy gift"
+  },
+  {
+    "docId": "glossary-132",
+    "type": "glossary",
+    "term": "CFR Manager (CFR)",
+    "definition": "Fundraising staff whose portfolio is primarily composed of organization (i.e., corporate and foundation) prospects"
+  },
+  {
+    "docId": "glossary-133",
+    "type": "glossary",
+    "term": "Leadership Annual Gift Manager (LAGM)",
+    "definition": "Fundraising staff who manage prospects whose gift potential is in the $10K-$99.9K range"
+  },
+  {
+    "docId": "glossary-134",
+    "type": "glossary",
+    "term": "Alumni Relations Manager (ARM)",
+    "definition": "Alumni relations staff who manage alumni-only prospects primarily for the purpose of engagement"
+  },
+  {
+    "docId": "glossary-135",
+    "type": "glossary",
+    "term": "Stewardship Manager (STM)",
+    "definition": "Stewardship & Donor Relations staff who manage prospects primarily for the purpose of ongoing/permanent stewardship"
+  },
+  {
+    "docId": "glossary-136",
+    "type": "glossary",
+    "term": "Operations and Services Staff (OPS)",
+    "definition": "All operational and administrative staff in University Advancement"
+  },
+  {
+    "docId": "glossary-137",
+    "type": "glossary",
+    "term": "Non-Advancement Staff (UAD)",
+    "definition": "All Salesforce users who work outside of Advancement (e.g., staff who work in a financial role, staff in the President's office, etc.)"
+  },
+  {
+    "docId": "glossary-138",
+    "type": "glossary",
+    "term": "Student Workers (STU)",
+    "definition": "All USC students employed in a unit that resides under the purview of the Senior Vice President for University Advancement"
+  },
+  {
+    "docId": "glossary-139",
+    "type": "glossary",
+    "term": "Primary Relationship Manager (PRM)",
+    "definition": "The PRM is the principal strategist, relationship-builder, and coordinator of advancement activity for a prospect and assumes overall responsibility and accountability for the cultivation, solicitation, and stewardship of a prospect."
+  },
+  {
+    "docId": "glossary-140",
+    "type": "glossary",
+    "term": "Secondary Relationship Manager (SRM)",
+    "definition": "SRMs are fundraisers with a clear mandate and intent to cultivate, solicit, and steward a prospect or to provide substantive advice toward those efforts. "
+  },
+  {
+    "docId": "glossary-141",
+    "type": "glossary",
+    "term": "Advancement Partner",
+    "definition": "This may be a dean, a physician, or other individual who is not a member of the Advancement team who may be assigned to carry out the actual solicitation of a prospect. This is also a way to track assignments for those who do not normally carry a regular portfolio."
+  },
+  {
+    "docId": "glossary-142",
+    "type": "glossary",
+    "term": "Contact Reports",
+    "definition": "A contact report is a written record of a significant interaction between University Advancement and prospect."
+  },
+  {
+    "docId": "glossary-143",
+    "type": "glossary",
+    "term": "Contact Method",
+    "definition": "Contact Method refers to the type of contact that takes place between a prospect and staff at the University."
+  },
+  {
+    "docId": "glossary-144",
+    "type": "glossary",
+    "term": "Substantive Contact Reports",
+    "definition": "Substantive contacts are defined as direct, two-way interactions between a prospect and USC that relates to moving a prospect through the fundraising cycle."
+  },
+  {
+    "docId": "glossary-145",
+    "type": "glossary",
+    "term": "Contact Outcome",
+    "definition": "All contact reports have an optional field titled Outcome. A contact report can have one of two outcomes, or the outcome field can be left blank."
+  },
+  {
+    "docId": "glossary-146",
+    "type": "glossary",
+    "term": "Contact Outcome: Qualification",
+    "definition": "Confirms that a record should be considered viable for cultivation as a prospect."
+  },
+  {
+    "docId": "glossary-147",
+    "type": "glossary",
+    "term": "Contact Outcome: Disqualification",
+    "definition": "Confirms that a record should not be cultivated as a prospect, either temporarily or\npermanently. When a PRM disqualifies a prospect, a contact report detailing the rationale for the disqualification must be entered."
+  },
+  {
+    "docId": "glossary-148",
+    "type": "glossary",
+    "term": "Disqualification Reason",
+    "definition": "Contact reports with a Disqualification outcome require a Disqualification Reason, which indicates the stage of readiness that accompanies the disqualification."
+  },
+  {
+    "docId": "glossary-149",
+    "type": "glossary",
+    "term": "Disqualification Reason:  Recommend Reassignment",
+    "definition": "Indicates that a prospect should be placed in the Recommended for Reassignment stage"
+  },
+  {
+    "docId": "glossary-150",
+    "type": "glossary",
+    "term": "Disqualification Reason: Recommend Deferring Cultivation",
+    "definition": "Indicates that a prospect should be placed in the Deferred stage"
+  },
+  {
+    "docId": "glossary-151",
+    "type": "glossary",
+    "term": "Disqualification Reason: Recommend Disqualification as a USC Prospect",
+    "definition": "Indicates that a prospect should be placed in the Not a USC Prospect stage"
+  },
+  {
+    "docId": "glossary-152",
+    "type": "glossary",
+    "term": "Disqualification Reason: Recommend Permanent Disqualification",
+    "definition": "Indicates that a prospect should be placed in the Permanently Disqualified stage"
+  },
+  {
+    "docId": "glossary-153",
+    "type": "glossary",
+    "term": "Contact Report Status",
+    "definition": "To protect data integrity and sensitive information about our constituents, the Relationship Management team reviews all contact reports for completeness, accuracy, and the existence of sensitive information (notably protected health information, which should not reside in a contact report). Status determines where a contact report is in the review process. "
+  },
+  {
+    "docId": "glossary-154",
+    "type": "glossary",
+    "term": "Submitted Contact Report",
+    "definition": "The contact report has been logged and is awaiting review by Relationship Management; this is the default status for a contact report when it is logged in Salesforce"
+  },
+  {
+    "docId": "glossary-155",
+    "type": "glossary",
+    "term": "Incomplete Contact Report",
+    "definition": "The contact report has been reviewed by Relationship Management and determined to lack sufficient information to be approved; it is returned to the staff member who entered it"
+  },
+  {
+    "docId": "glossary-156",
+    "type": "glossary",
+    "term": "Resubmitted Contact Report",
+    "definition": "The contact report has been resubmitted and is awaiting review by Relationship Management"
+  },
+  {
+    "docId": "glossary-157",
+    "type": "glossary",
+    "term": "Approved Contact Report",
+    "definition": "The contact report has been approved by Relationship Management"
+  },
+  {
+    "docId": "glossary-158",
+    "type": "glossary",
+    "term": "Qualified Prospects",
+    "definition": "Prospects in the Qualification stage are those for whom, at the time of a PRM assignment, no substantive contact has been documented. After an initial qualification visit, where both the inclination and capacity of the prospect are confirmed, a prospect may be held in the Qualification stage while determination visits are made; these visits confirm a prospect’s capability to make a major gift, as well as ensure which program is the best match for a prospect’s interests. At this stage, SRMs can be assigned."
+  },
+  {
+    "docId": "glossary-159",
+    "type": "glossary",
+    "term": "Cultivation Prospects",
+    "definition": "Prospects in the Cultivation stage are actively engaged to determine which of their interests align with USC’s fundraising priorities. They receive more robust contact (face-to-face meetings, the involvement of academic and volunteer leaders, etc.) and are positioned for a major gift solicitation."
+  },
+  {
+    "docId": "glossary-160",
+    "type": "glossary",
+    "term": "Solisitation Prospects",
+    "definition": "Prospects in the Solicitation stage are being solicited for a major gift. Statistics show that it takes 6-10 quality moves/actions to make a successful major gift solicitation. A proposal in the Submitted stage should be logged on the prospect’s record."
+  },
+  {
+    "docId": "glossary-161",
+    "type": "glossary",
+    "term": "Stewardship Prospects",
+    "definition": "Prospects in the Stewardship stage have made a major gift, typically defined as an outright gift or pledge commitment of $25K+ and are being acknowledged by the fundraiser and Donor Relations and Stewardship team."
+  },
+  {
+    "docId": "glossary-162",
+    "type": "glossary",
+    "term": "Leadership Annual Giving",
+    "definition": "Prospects in the Leadership Annual Giving stage are those who are being managed for a potential gift in the $10K-$99.9K range. Most prospects in this stage are managed by a staff person in a LAGM role, but under certain circumstances some prospects will be managed by a staff person in a non-LAGM role."
+  },
+  {
+    "docId": "glossary-163",
+    "type": "glossary",
+    "term": "Permanent Stewardship",
+    "definition": "Prospects in the Permanent Stewardship stage typically have given to their capacity, or have made an estate or planned gift only, and are not likely to make another large gift. A PRM assignment is required for all prospects in this stage. No more than 25% of a fundraiser’s PRM portfolio should consist of prospects in Permanent Stewardship. Staff who are assigned the Stewardship Manager role can also manage prospects in Permanent Stewardship."
+  },
+  {
+    "docId": "glossary-164",
+    "type": "glossary",
+    "term": "Recommended for Reassignment",
+    "definition": "Prospects in the Recommended for Reassignment stage are candidates for a PRM assignment. This stage should be used for prospects who were disqualified as prospects of a school or unit but may be considered prospects for another school or unit, as well as to indicate that a prospect who has previously been disqualified is now either in need of requalification or should be considered for assignment."
+  },
+  {
+    "docId": "glossary-165",
+    "type": "glossary",
+    "term": "Deferred Prospects",
+    "definition": "Prospects in the Deferred stage are not currently able or willing to make a major gift to USC, so a PRM assignment is not warranted. Reasons could include: Illiquid wealth; Philanthropy maybe committed else where, etc."
+  },
+  {
+    "docId": "glossary-166",
+    "type": "glossary",
+    "term": "Householded Prospect",
+    "definition": "Prospects in the Householded Prospect stage are those whose partner/spouse, close family member, and/or giving vehicle (e.g., family foundation) has an active PRM assignment. Salesforce does not household prospects, so this stage provides a householding mechanism while preserving the identity of individual records for other purposes."
+  },
+  {
+    "docId": "glossary-167",
+    "type": "glossary",
+    "term": "Not a USC Prospect",
+    "definition": "Prospects in the Not a USC Prospect stage are not necessary to consider for assignment, generally because they are unaffiliated or loosely affiliated, or do not have interest in ever making a gift of any size to the University. This is usually determined after the initial qualification visit by a fundraiser or via an assessment and recommendation by Development Research, but there are exceptions. While this stage implies that a prospect may never again be requalified or cultivated for a major gift, this is not always the case. Prospects in this stage can and should be revisited under appropriate circumstances."
+  },
+  {
+    "docId": "glossary-168",
+    "type": "glossary",
+    "term": "Permanently Disqualified Prospects",
+    "definition": "Prospects in the Permanently Disqualified stage are those for whom engaging in a gift conversation would adversely affect the reputation of the University. Deceased individuals and defunct organizations should reside in this stage as well. The Development Research or Relationship Management teams may also recommend permanent disqualification for a prospect. All requests to move a prospect into this stage are subject to additional layers of review."
+  },
+  {
+    "docId": "glossary-169",
+    "type": "glossary",
+    "term": "Strategy Type",
+    "definition": "Orients a strategy to a prospect’s status in the fundraising cycle at the time of its entry in Salesforce. Possibel types include: Qualificaiton Strategy, CUltivation Strategy, Solicitation Strategy, Stewardship Strategy, etc."
+  },
+  {
+    "docId": "glossary-170",
+    "type": "glossary",
+    "term": "Strategy Date",
+    "definition": "Date a strategy became effective"
+  },
+  {
+    "docId": "glossary-171",
+    "type": "glossary",
+    "term": "Strategy Summary",
+    "definition": "Overview of the overarching strategy goal(s) at a high level"
+  },
+  {
+    "docId": "glossary-172",
+    "type": "glossary",
+    "term": "Strategy Detail",
+    "definition": "Describes the summarized goal(s) at a more granular level"
+  },
+  {
+    "docId": "glossary-173",
+    "type": "glossary",
+    "term": "Strategy Next Step",
+    "definition": "Describes subsequent moves/following actions"
+  },
+  {
+    "docId": "faq-5",
+    "type": "faq",
+    "question": "1",
+    "answer": "A Tableau collection is a way to group related Tableau content, such as dashboards, workbooks, views, and data sources, into a single, organized set. This helps in managing and accessing related content more efficiently."
+  },
+  {
+    "docId": "faq-7",
+    "type": "faq",
+    "question": "3",
+    "answer": "Yes, you can share collections with other users or groups within your organization. Sharing permissions can be managed through the collection’s settings, allowing you to control who can view or edit the collection."
+  },
+  {
+    "docId": "faq-8",
+    "type": "faq",
+    "question": "4",
+    "answer": "While Tableau does not support nested collections, you can use naming conventions and descriptions to organize collections logically. A single piece of content can be included in multiple collections, helping you maintain organization."
+  },
+  {
+    "docId": "faq-9",
+    "type": "faq",
+    "question": "5",
+    "answer": "Ensure you have the necessary permissions to view or add content to the collection. Check your filters and search settings to make sure the collection is not being excluded from your view. Verify that the content is compatible with collections and that you have the appropriate permissions to add it."
+  },
+  {
+    "docId": "faq-10",
+    "type": "faq",
+    "question": "6",
+    "answer": "A subscription in Tableau allows users to receive regular email updates of a dashboard or workbook. To create a subscription, navigate to the dashboard or workbook you want to subscribe to, click the \"Subscribe\" button, choose your preferred schedule and format, and confirm your subscription."
+  },
+  {
+    "docId": "faq-11",
+    "type": "faq",
+    "question": "7",
+    "answer": "You can manage your subscriptions by navigating to the \"Subscriptions\" section in Tableau Server or Tableau Online. Here, you can view all your subscriptions, edit the schedule or format, pause or resume subscriptions, and delete any that are no longer needed."
+  },
+  {
+    "docId": "faq-12",
+    "type": "faq",
+    "question": "8",
+    "answer": "Any user with the necessary permissions to view the content can subscribe to it. Permissions to create and manage subscriptions are controlled by Tableau Server or Tableau Online administrators, ensuring that only authorized users can set up subscriptions."
+  },
+  {
+    "docId": "faq-13",
+    "type": "faq",
+    "question": "9",
+    "answer": "Yes, you can share subscriptions with other users. When setting up a subscription, you can add multiple recipients who will receive the same email updates. Each recipient must have the necessary permissions to view the content being subscribed to."
+  },
+  {
+    "docId": "faq-14",
+    "type": "faq",
+    "question": "10",
+    "answer": "Ensure your email settings are correct and that emails from Tableau are not being filtered into spam. Check that the subscription schedule is correct and that the Tableau Server or Tableau Online is running without issues. If the data appears incorrect, verify that the source data has been updated and that there are no issues with the underlying data connection."
+  },
+  {
+    "docId": "faq-15",
+    "type": "faq",
+    "question": "11",
+    "answer": "A Tableau view is a visual representation of data, such as charts, graphs, maps, and tables. To create one, connect to a data source in Tableau, drag fields onto the Rows and Columns shelves, choose a visualization type from the \"Show Me\" pane, customize using the Marks card, and save your view."
+  },
+  {
+    "docId": "faq-16",
+    "type": "faq",
+    "question": "12",
+    "answer": "If a dashboard has filtering capabilities, locate the yellow 'Filter Pane' button located on the top right corner of each dashboard. "
+  },
+  {
+    "docId": "faq-17",
+    "type": "faq",
+    "question": "13",
+    "answer": "To set up a Cognos subscription, please reach out to the Business Intelligence team at advrpt@usc.edu. You can set up delivery schedules for daily, weekly, monthly, or custom intervals."
+  },
+  {
+    "docId": "faq-18",
+    "type": "faq",
+    "question": "14",
+    "answer": "Reports can be shared by saving them to a shared folder within Cognos, emailing them directly, or providing access through Cognos Connection or Cognos Analytics portals."
+  },
+  {
+    "docId": "faq-19",
+    "type": "faq",
+    "question": "15",
+    "answer": "Cognos provides Excel or PDF reports, making it ideal for those preparing mailing lists, prospecting, etc. Tableau, on the other hand, is best for interactive data visualization and self-service analytics, allowing you to explore data more freely."
+  },
+  {
+    "docId": "faq-20",
+    "type": "faq",
+    "question": "16",
+    "answer": "You can access Tableau via the link in Salesforce. To connect to the Tableau site, you will need to be connected to the VPN."
+  },
+  {
+    "docId": "faq-21",
+    "type": "faq",
+    "question": "17",
+    "answer": "Scheduled reports can be set up using subscriptions for automated email delivery."
+  },
+  {
+    "docId": "faq-22",
+    "type": "faq",
+    "question": "18",
+    "answer": "Tableau is a data visualization and business intelligence tool that helps users analyze and present data in an interactive and visually appealing manner."
+  },
+  {
+    "docId": "faq-23",
+    "type": "faq",
+    "question": "19",
+    "answer": "If you are a first-time user, please reach out to the Business Intelligence team at advrpt@.usc.edu to set up your Tableau profile. For returning users, you will need to be connected to the VPN. "
+  },
+  {
+    "docId": "faq-24",
+    "type": "faq",
+    "question": "20",
+    "answer": "To resolve this common error message, clear out your browser's history and cache/cookies. "
+  },
+  {
+    "docId": "faq-28",
+    "type": "faq",
+    "question": "21",
+    "answer": "A workset is a file containing a set of DonorIDs that will be used to generate a Standard Report in Cognos. These DonorIDs can be compiled manually or by submitting a request to the BI team."
+  },
+  {
+    "docId": "faq-29",
+    "type": "faq",
+    "question": "22",
+    "answer": "A Standard Report in Cognos is a structured report that presents key details about constituents or organizations, including demographics, relationships, and giving history, in a predefined format for consistent analysis and reporting."
+  },
+  {
+    "docId": "faq-30",
+    "type": "faq",
+    "question": "23",
+    "answer": "We offer on-demand training resources, along with virtual training sessions. For the most up to date information, visit our Training Resources page."
   }
 ]

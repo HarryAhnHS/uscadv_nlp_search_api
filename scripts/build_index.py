@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build search indexes from document JSON file.
+Build search indexes from docs.json.
 
 Outputs:
 - data/index.faiss: FAISS IndexFlatIP for cosine similarity (normalized embeddings)
@@ -8,7 +8,7 @@ Outputs:
 - data/search.db: SQLite database with FTS5 for keyword search
 
 Usage:
-    python scripts/build_index.py [--force] [--input data/docs.json]
+    python scripts/build_index.py [--force]
 
 Environment:
     EMBED_MODEL: Sentence transformer model (default: all-MiniLM-L6-v2)
@@ -30,7 +30,7 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_ROOT / "data"
 
-DEFAULT_INPUT_FILE = DATA_DIR / "mock_docs.json"
+INPUT_FILE = DATA_DIR / "docs.json"
 FAISS_INDEX_FILE = DATA_DIR / "index.faiss"
 METADATA_FILE = DATA_DIR / "metadata.jsonl"
 SQLITE_DB_FILE = DATA_DIR / "search.db"
@@ -81,6 +81,14 @@ def create_canonical_text(doc: dict) -> str:
         ]
         return " ".join(filter(None, parts))
     
+    elif doc_type == "faq":
+        # FAQ: question, answer
+        parts = [
+            f"FAQ: {doc.get('question', '')}",
+            f"Answer: {doc.get('answer', '')}",
+        ]
+        return " ".join(filter(None, parts))
+    
     else:
         # Fallback: concatenate all string values
         text_parts = []
@@ -128,6 +136,16 @@ def normalize_document(doc: dict) -> dict:
             "definition": doc.get("definition", ""),
         })
     
+    elif doc_type == "faq":
+        normalized.update({
+            "question": doc.get("question", ""),
+            "answer": doc.get("answer", ""),
+        })
+        if doc.get("category"):
+            normalized["category"] = doc["category"]
+        if doc.get("tags"):
+            normalized["tags"] = doc["tags"]
+    
     else:
         # Preserve all fields for unknown types
         normalized.update(doc)
@@ -160,6 +178,13 @@ def get_searchable_text(doc: dict) -> str:
         parts = [
             doc.get("term", ""),
             doc.get("definition", ""),
+        ]
+    elif doc_type == "faq":
+        parts = [
+            doc.get("question", ""),
+            doc.get("answer", ""),
+            doc.get("category", ""),
+            " ".join(doc.get("tags", [])),
         ]
     else:
         parts = [str(v) for v in doc.values() if isinstance(v, str)]
@@ -263,6 +288,8 @@ def build_sqlite_fts(documents: list[dict], db_file: Path) -> None:
         # Get title based on type
         if doc_type == "glossary":
             title = doc.get("term", "")
+        elif doc_type == "faq":
+            title = doc.get("question", "")
         else:
             title = doc.get("title", "")
         
@@ -313,23 +340,17 @@ def main():
     parser.add_argument(
         "--input",
         type=Path,
-        default=None,
-        help="Input JSON file (default: data/docs.json or data/mock_docs.json)",
+        default=INPUT_FILE,
+        help="Input JSON file (default: data/docs.json)",
     )
     args = parser.parse_args()
     
-    # Determine input file (prefer docs.json over mock_docs.json)
-    if args.input:
-        input_file = args.input
-    elif (DATA_DIR / "docs.json").exists():
-        input_file = DATA_DIR / "docs.json"
-    else:
-        input_file = DEFAULT_INPUT_FILE
+    input_file = args.input
     
     # Check input file
     if not input_file.exists():
         print(f"Error: Input file not found: {input_file}")
-        print("Run fetch_sharepoint.py first, or ensure mock_docs.json exists.")
+        print("Run fetch_sharepoint.py first to generate docs.json.")
         sys.exit(1)
     
     # Check for existing outputs
