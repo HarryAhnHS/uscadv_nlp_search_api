@@ -12,7 +12,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-2. Fetch data from SharePoint (requires credentials in `.env`):
+2. Fetch data from SharePoint (requires `.env` with credentials):
 
 ```bash
 python scripts/fetch_sharepoint.py
@@ -75,8 +75,8 @@ curl "http://localhost:8000/search?q=donor&top_k=5"
 
 The search automatically adjusts how it weights results based on your query:
 
-- Short queries and acronyms (like "LYBUNT" or "WPU") lean more on exact keyword matching
-- Longer, natural language queries (like "how to track donor retention") rely more on semantic understanding
+- Short queries and acronyms (like "WPU" or "PRM") lean more on exact keyword matching
+- Longer, natural language queries (like "how to track donor giving") rely more on semantic understanding
 
 Each result includes a `matchReason` field explaining why it matched, and a `score` between 0 and 1.
 
@@ -117,23 +117,27 @@ For SharePoint integration (production data):
 - `CLIENT_SECRET` - Azure AD app client secret
 - `REFRESH_TOKEN` - Microsoft Graph refresh token
 
-## Fetching Real Data from SharePoint
+## Updating Data from SharePoint
 
-To use real SharePoint data instead of mock data:
+To refresh content from SharePoint:
 
 ```bash
-# 1. Set up environment variables in .env file
-# 2. Fetch reports from SharePoint
+# 1. Ensure .env has valid credentials (REFRESH_TOKEN, TENANT_ID, CLIENT_ID, CLIENT_SECRET)
+
+# 2. Fetch all content (reports, training videos, glossary, FAQs)
 python scripts/fetch_sharepoint.py
 
-# 3. Rebuild indexes with the new data
+# 3. Rebuild indexes
 python scripts/build_index.py --force
 
 # 4. Restart the server
 uvicorn app.main:app --reload
 ```
 
-The fetch script will create `data/docs.json` which `build_index.py` will automatically use if present.
+If your refresh token expires, use the token helper:
+```bash
+python scripts/get_token.py
+```
 
 ## Project Structure
 
@@ -149,138 +153,77 @@ scripts/
   fetch_sharepoint.py - Fetch all content from SharePoint
   build_index.py      - Build FAISS + FTS indexes
   discover_fields.py  - Helper to find SharePoint field names
-  get_token.py        - Helper to refresh OAuth tokens
+  get_token.py        - OAuth token refresh helper
 data/
-  docs.json         - Documents from SharePoint
+  docs.json         - Documents from SharePoint (reports, videos, glossary, FAQs)
+  index.faiss       - Vector embeddings for semantic search
+  metadata.jsonl    - Document metadata
+  search.db         - SQLite FTS5 keyword index
 ```
 
-## Test Cases
+## Test Cases for Demo
 
-Sample natural language queries to demonstrate hybrid search capabilities.
+Sample queries to demonstrate hybrid search capabilities. These are natural language queries that a user might type.
 
-### Semantic Search (Natural Language)
-
-These queries test meaning-based matching where exact keywords may not appear in results:
-
+### Natural Language Questions
 ```
 how do I track my fundraising progress
-which donors stopped giving this year
-where can I see my portfolio assignments
-how to prioritize which prospects to visit
-keeping donors engaged after they give
-how do I find wealthy prospects
-what reports show campaign performance
-```
-
-### Keyword/Acronym Search
-
-Short queries and acronyms rely more on exact keyword matching:
-
-```
-LYBUNT
-SYBUNT
-WPU
-Keck
-CFR
-```
-
-### Concept Discovery
-
-Searches for concepts that should match related content across types:
-
-```
-prospect ratings
-proposal pipeline
-endowment funds
-stewardship
-donor retention
-wealth screening
-contact reports
-pledges
-```
-
-### Training Video Queries
-
-Natural language questions that should surface training content:
-
-```
-how to use tableau
-learn about collections
+where can I see recent gifts
+how do I find high-capacity prospects
+show me donor activity for my school
 how do I subscribe to a report
-getting started with cognos
-how to filter data in dashboards
+where can I learn about Cognos
 ```
 
-### Glossary Term Lookups
-
-Queries that should return glossary definitions:
-
+### Acronyms and Short Terms
 ```
-what is a funded proposal
-primary credit vs assist credit
-what does win rate mean
-proposal status definitions
+WPU
+PRM
+Keck
+OMAG
+PLC
+```
+
+### Concept Searches (semantic understanding)
+```
+wealth screening and capacity
+donor stewardship activities
+tracking proposal pipeline
+measuring fundraiser performance
+finding major gift prospects
 ```
 
 ### Cross-Type Discovery
-
-Queries that should return mixed results (reports + videos + glossary):
-
 ```
+prospect ratings
 proposals
-prospect management
-contact activity
-fundraiser performance
+endowment
+pledges
+contact reports
 ```
 
-### Filtered Searches
-
-Test type and category filters:
-
+### With Type Filter
 ```
-# Type filters
-subscriptions                        [type=training_video]
-pledge                               [type=glossary]
-alumni giving                        [type=report]
-
-# Category filters
-financial summary                    [category=Keck Medicine]
-campaign performance                 [category=Athletics]
-donor activity                       [category=Prospect Management]
+how to save reports                  [type=training_video]
+proposal status                      [type=glossary]
+financial summary                    [type=report]
 ```
 
-### Demo Walkthrough
-
-A suggested sequence for demonstrating the search:
-
+### With Category Filter
 ```
-1. LYBUNT
-   → Should return glossary definition and related reports
+donors                               [category=Keck Medicine]
+annual giving                        [category=Marshall]
+revenue                              [category=Classical California]
+```
 
-2. which donors stopped giving
-   → Semantic match to LYBUNT/SYBUNT content
-
-3. proposal pipeline
-   → Should return proposal-related reports and glossary terms
-
-4. how to use tableau
-   → Should prioritize training videos
-
-5. prospect ratings
-   → Should return Prospects Ratings report and related content
-
+### Demo Sequence (recommended flow)
+```
+1. prospect ratings
+2. how do I assess donor capacity
+3. track fundraiser performance against goals
+4. how to use custom views in Tableau
+5. what is primary credit
 6. Keck financial summary
-   → Should return Keck Medicine financial reports
-
-7. what is primary credit
-   → Should return glossary definition
-```
-
-### Edge Cases
-
-```
-empty query                          → should return error
-single character                     → should handle gracefully  
-very long query with many words      → should still work
-special characters !@#$%             → should be handled
+7. endowment funds
+8. how to search for reports in Cognos
 ```
