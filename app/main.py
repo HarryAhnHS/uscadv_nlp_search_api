@@ -3,9 +3,8 @@
 from contextlib import asynccontextmanager
 from typing import Annotated
 
-from fastapi import Depends, FastAPI, Query
+from fastapi import FastAPI, Query
 
-from app.auth import get_current_user
 from app.hybrid import hybrid_search
 from app.index_store import get_index_store
 from app.models import (
@@ -80,7 +79,6 @@ async def search(
         int,
         Query(ge=1, le=100, description="Number of results to return"),
     ] = 10,
-    user: Annotated[dict, Depends(get_current_user)] = None,
 ) -> SearchResponse:
     """
     Search documents using hybrid semantic + keyword retrieval.
